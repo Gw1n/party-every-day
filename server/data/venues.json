@@ -1,0 +1,6500 @@
+[
+    {
+        "id": "60013074",
+        "name": "Spielzeugmuseum",
+        "category": "Museum",
+        "street": "Marienplatz",
+        "houseNumber": "15",
+        "latitude": 48.1366906,
+        "longitude": 11.5768793
+    },
+    {
+        "id": "118252923",
+        "name": "Milchhäusl",
+        "category": "Café",
+        "street": "Veterinärstraße",
+        "houseNumber": "18",
+        "latitude": 48.1497787,
+        "longitude": 11.5855448
+    },
+    {
+        "id": "181328634",
+        "name": "Wintergarten",
+        "category": "Pub",
+        "street": "Nordendstraße",
+        "houseNumber": "37",
+        "latitude": 48.1572364,
+        "longitude": 11.5747755
+    },
+    {
+        "id": "209147341",
+        "name": "Cantina",
+        "category": "Pub",
+        "street": "August-Exter-Straße",
+        "houseNumber": "1",
+        "latitude": 48.1510867,
+        "longitude": 11.4609367
+    },
+    {
+        "id": "243666968",
+        "name": "BaTo Café",
+        "category": "Café",
+        "street": "Heßstraße",
+        "houseNumber": "71",
+        "latitude": 48.1532641,
+        "longitude": 11.5609351
+    },
+    {
+        "id": "244015496",
+        "name": "Joon",
+        "category": "Café",
+        "street": "Theresienstraße",
+        "houseNumber": "114",
+        "latitude": 48.1509021,
+        "longitude": 11.5653552
+    },
+    {
+        "id": "249814994",
+        "name": "Museum Mineralogia München",
+        "category": "Museum",
+        "street": "Theresienstraße",
+        "houseNumber": "41",
+        "latitude": 48.1481129,
+        "longitude": 11.572363,
+        "description": "Besuchereingang: Marianne-von-Werefkin-Weg"
+    },
+    {
+        "id": "254277571",
+        "name": "Trachtenvogl Café-Lounge",
+        "category": "Café",
+        "street": "Reichenbachstraße",
+        "houseNumber": "47",
+        "latitude": 48.1291433,
+        "longitude": 11.5758218
+    },
+    {
+        "id": "257005663",
+        "name": "Pizza Manufaktur",
+        "category": "Pub",
+        "street": "Wenzelstraße",
+        "houseNumber": "2",
+        "latitude": 48.1976286,
+        "longitude": 11.5836996
+    },
+    {
+        "id": "258189085",
+        "name": "Zum Kuckuck Nochmal",
+        "category": "Pub",
+        "street": "Weitlstraße",
+        "houseNumber": "115",
+        "latitude": 48.2081308,
+        "longitude": 11.5519269
+    },
+    {
+        "id": "258490963",
+        "name": "Arnold/Werner",
+        "category": "Café",
+        "street": "Georgenstraße",
+        "houseNumber": "71",
+        "latitude": 48.1564251,
+        "longitude": 11.5705211
+    },
+    {
+        "id": "260032029",
+        "name": "Les Deux Messieurs",
+        "category": "Café",
+        "street": "Weißenburger Straße",
+        "houseNumber": "36",
+        "latitude": 48.1282594,
+        "longitude": 11.6005436
+    },
+    {
+        "id": "260431779",
+        "name": "Zum Dachs",
+        "category": "Pub",
+        "street": "Säbener Straße",
+        "houseNumber": "173",
+        "latitude": 48.0949781,
+        "longitude": 11.5736357
+    },
+    {
+        "id": "260432742",
+        "name": "MVG-Museum",
+        "category": "Museum",
+        "street": "Ständlerstraße",
+        "houseNumber": "20",
+        "latitude": 48.1030126,
+        "longitude": 11.6022296
+    },
+    {
+        "id": "261030708",
+        "name": "Residenzmuseum und Schatzkammer",
+        "category": "Museum",
+        "street": "Max-Joseph-Platz",
+        "houseNumber": "3",
+        "latitude": 48.1406325,
+        "longitude": 11.5786154,
+        "description": "letzter Einlass ist eine Stunde früher"
+    },
+    {
+        "id": "263871091",
+        "name": "Café im Hinterhof",
+        "category": "Café",
+        "street": "Sedanstraße",
+        "houseNumber": "29",
+        "latitude": 48.1295684,
+        "longitude": 11.5994249
+    },
+    {
+        "id": "263875446",
+        "name": "Fortuna Cafébar",
+        "category": "Café",
+        "street": "Sedanstraße",
+        "houseNumber": "18",
+        "latitude": 48.129749,
+        "longitude": 11.598075,
+        "description": "Jun-Aug Su off gilt nur für das SONNTAGSBRUNCH; 2020 erweiterte Freischankfläche"
+    },
+    {
+        "id": "263879617",
+        "name": "Metz 7",
+        "category": "Pub",
+        "street": "Metzstraße",
+        "houseNumber": "7",
+        "latitude": 48.1290691,
+        "longitude": 11.5966737
+    },
+    {
+        "id": "263889140",
+        "name": "Eiscafé Gondola",
+        "category": "Café",
+        "street": "Pariser Straße",
+        "houseNumber": "29a",
+        "latitude": 48.1282393,
+        "longitude": 11.5996648,
+        "description": "Winter: Lebkuchen-Verkauf"
+    },
+    {
+        "id": "263889980",
+        "name": "Fresh House",
+        "category": "Café",
+        "street": "Pariser Straße",
+        "houseNumber": "29",
+        "latitude": 48.1280468,
+        "longitude": 11.5994412
+    },
+    {
+        "id": "263895499",
+        "name": "Bar Tapas Teatro",
+        "category": "Pub",
+        "street": "Balanstraße",
+        "houseNumber": "23",
+        "latitude": 48.1265126,
+        "longitude": 11.5954148
+    },
+    {
+        "id": "264010830",
+        "name": "Echardinger Gartenlaube",
+        "category": "Pub",
+        "street": "Echardinger Straße",
+        "houseNumber": "10",
+        "latitude": 48.1270157,
+        "longitude": 11.6267297
+    },
+    {
+        "id": "264680687",
+        "name": "EscoBar",
+        "category": "Pub",
+        "street": "Breisacher Straße",
+        "houseNumber": "19",
+        "latitude": 48.1306142,
+        "longitude": 11.6048328
+    },
+    {
+        "id": "264680701",
+        "name": "Lottibar",
+        "category": "Café",
+        "street": "Pariser Straße",
+        "houseNumber": "40",
+        "latitude": 48.128618,
+        "longitude": 11.6006988,
+        "description": "allerlei selbstgemachte Kuchen"
+    },
+    {
+        "id": "264745310",
+        "name": "Molly Malone's",
+        "category": "Pub",
+        "street": "Kellerstraße",
+        "houseNumber": "21",
+        "latitude": 48.1308709,
+        "longitude": 11.5945035
+    },
+    {
+        "id": "266343880",
+        "name": "Michl",
+        "category": "Café",
+        "street": "Schellingstraße",
+        "houseNumber": "128",
+        "latitude": 48.1545839,
+        "longitude": 11.5614767
+    },
+    {
+        "id": "266698144",
+        "name": "Sorry Johnny",
+        "category": "Café",
+        "street": "Preysingstraße",
+        "houseNumber": "42",
+        "latitude": 48.1320188,
+        "longitude": 11.5975348
+    },
+    {
+        "id": "266698157",
+        "name": "Backspielhaus",
+        "category": "Café",
+        "street": "Rosenheimer Platz",
+        "houseNumber": "1",
+        "latitude": 48.1282874,
+        "longitude": 11.5940014,
+        "description": "Schreibweise \"Cafehaus\" geprüft"
+    },
+    {
+        "id": "269945556",
+        "name": "Alter Ofen",
+        "category": "Pub",
+        "street": "Zieblandstraße",
+        "houseNumber": "41",
+        "latitude": 48.1540973,
+        "longitude": 11.5650463
+    },
+    {
+        "id": "270586929",
+        "name": "Seidl's Cafe & Konditorei",
+        "category": "Café",
+        "street": "Wasserburger Landstraße",
+        "houseNumber": "231",
+        "latitude": 48.1124936,
+        "longitude": 11.7050802
+    },
+    {
+        "id": "272529037",
+        "name": "Starbucks",
+        "category": "Café",
+        "street": "Leopoldstraße",
+        "houseNumber": "56",
+        "latitude": 48.1588383,
+        "longitude": 11.5855426
+    },
+    {
+        "id": "276909579",
+        "name": "Tambosi Hofgarten",
+        "category": "Café",
+        "street": "Odeonsplatz",
+        "houseNumber": "18",
+        "latitude": 48.1429189,
+        "longitude": 11.5782954
+    },
+    {
+        "id": "276909580",
+        "name": "Starbucks",
+        "category": "Café",
+        "street": "Odeonsplatz",
+        "houseNumber": "15",
+        "latitude": 48.1430563,
+        "longitude": 11.5781623
+    },
+    {
+        "id": "280151630",
+        "name": "Schumann's",
+        "category": "Pub",
+        "street": "Odeonsplatz",
+        "houseNumber": "7",
+        "latitude": 48.1439332,
+        "longitude": 11.5786175
+    },
+    {
+        "id": "283103746",
+        "name": "Café Kosmos",
+        "category": "Pub",
+        "street": "Dachauer Straße",
+        "houseNumber": "7",
+        "latitude": 48.1424485,
+        "longitude": 11.5599871
+    },
+    {
+        "id": "290528084",
+        "name": "Lucky",
+        "category": "Pub",
+        "street": "Sankt-Veit-Straße",
+        "houseNumber": "68",
+        "latitude": 48.1186573,
+        "longitude": 11.6406369
+    },
+    {
+        "id": "291103853",
+        "name": "Café Lehel",
+        "category": "Café",
+        "street": "Liebigstraße",
+        "houseNumber": "10a",
+        "latitude": 48.1410265,
+        "longitude": 11.5886975,
+        "description": "bookcrossing"
+    },
+    {
+        "id": "291103862",
+        "name": "s'Zwölferl",
+        "category": "Pub",
+        "street": "Seitzstraße",
+        "houseNumber": "12",
+        "latitude": 48.1411669,
+        "longitude": 11.5850195
+    },
+    {
+        "id": "291364487",
+        "name": "Morso Cafe",
+        "category": "Café",
+        "street": "Tattenbachstraße",
+        "houseNumber": "20",
+        "latitude": 48.1406751,
+        "longitude": 11.5905554
+    },
+    {
+        "id": "291365357",
+        "name": "Café Dukatz",
+        "category": "Café",
+        "street": "Sankt-Anna-Straße",
+        "houseNumber": "11",
+        "latitude": 48.1394643,
+        "longitude": 11.5868064
+    },
+    {
+        "id": "291642173",
+        "name": "La Stanza",
+        "category": "Café",
+        "street": "Sankt-Anna-Straße",
+        "houseNumber": "13",
+        "latitude": 48.1397198,
+        "longitude": 11.5867935
+    },
+    {
+        "id": "299100564",
+        "name": "Cohibar City",
+        "category": "Pub",
+        "street": "Herzog-Rudolf-Straße",
+        "houseNumber": "2",
+        "latitude": 48.1388979,
+        "longitude": 11.5834724,
+        "description": "Cigras"
+    },
+    {
+        "id": "302372006",
+        "name": "Cafe Wetterstein",
+        "category": "Café",
+        "street": "Wettersteinplatz",
+        "houseNumber": "3",
+        "latitude": 48.1094063,
+        "longitude": 11.5759824
+    },
+    {
+        "id": "305581866",
+        "name": "Bayerisches Nationalmuseum",
+        "category": "Museum",
+        "street": "Prinzregentenstraße",
+        "houseNumber": "3",
+        "latitude": 48.1433855,
+        "longitude": 11.5911498
+    },
+    {
+        "id": "305909095",
+        "name": "Cafe Jasmin",
+        "category": "Café",
+        "street": "Hohenschwangauplatz",
+        "houseNumber": "35a",
+        "latitude": 48.1038177,
+        "longitude": 11.5935833
+    },
+    {
+        "id": "306130881",
+        "name": "Stüberl",
+        "category": "Pub",
+        "street": "Sankt-Wolfgangs-Platz",
+        "houseNumber": "8b",
+        "latitude": 48.1258974,
+        "longitude": 11.594499
+    },
+    {
+        "id": "307729968",
+        "name": "Staatliche Münzsammlung München",
+        "category": "Museum",
+        "street": "Residenzstraße",
+        "houseNumber": "1",
+        "latitude": 48.1412382,
+        "longitude": 11.5783094
+    },
+    {
+        "id": "307729970",
+        "name": "Deutsches Theatermuseum",
+        "category": "Museum",
+        "street": "Galeriestraße",
+        "houseNumber": "4a",
+        "latitude": 48.1436723,
+        "longitude": 11.5805408
+    },
+    {
+        "id": "307734040",
+        "name": "Geologisches Museum",
+        "category": "Museum",
+        "street": "Luisenstraße",
+        "houseNumber": "37",
+        "latitude": 48.1476078,
+        "longitude": 11.5640961
+    },
+    {
+        "id": "307738674",
+        "name": "Deutsches Jagd- und Fischereimuseum",
+        "category": "Museum",
+        "street": "Neuhauser Straße",
+        "houseNumber": "2",
+        "latitude": 48.1383389,
+        "longitude": 11.5715942
+    },
+    {
+        "id": "307740749",
+        "name": "Cafe Luitpold - Palmengarten",
+        "category": "Café",
+        "street": "Brienner Straße",
+        "houseNumber": "11",
+        "latitude": 48.1429694,
+        "longitude": 11.574757
+    },
+    {
+        "id": "307757483",
+        "name": "Strobl's Bierstuben",
+        "category": "Pub",
+        "street": "Pflaumstraße",
+        "houseNumber": "10",
+        "latitude": 48.2180463,
+        "longitude": 11.5291425
+    },
+    {
+        "id": "309254674",
+        "name": "ReMo's",
+        "category": "Pub",
+        "street": "Irisstraße",
+        "houseNumber": "1",
+        "latitude": 48.1968899,
+        "longitude": 11.5461062
+    },
+    {
+        "id": "311709815",
+        "name": "Cafe BLUe",
+        "category": "Café",
+        "street": "Implerstraße",
+        "houseNumber": "2",
+        "latitude": 48.1238739,
+        "longitude": 11.548284
+    },
+    {
+        "id": "313924815",
+        "name": "Paradiso Tanzbar",
+        "category": "Pub",
+        "street": "Rumfordstraße",
+        "houseNumber": "2",
+        "latitude": 48.1331791,
+        "longitude": 11.5748379
+    },
+    {
+        "id": "314035226",
+        "name": "WOW Museum",
+        "category": "Museum",
+        "street": "Tal",
+        "houseNumber": "27",
+        "latitude": 48.1357903,
+        "longitude": 11.5805391
+    },
+    {
+        "id": "315915047",
+        "name": "Filmcasino",
+        "category": "Pub",
+        "street": "Odeonsplatz",
+        "houseNumber": "8",
+        "latitude": 48.143851,
+        "longitude": 11.5785894
+    },
+    {
+        "id": "315919442",
+        "name": "Lavazza",
+        "category": "Café",
+        "street": "Gabelsbergerstraße",
+        "houseNumber": "99",
+        "latitude": 48.1498371,
+        "longitude": 11.5595144
+    },
+    {
+        "id": "315953324",
+        "name": "Laifufu",
+        "category": "Café",
+        "street": "Maillingerstraße",
+        "houseNumber": "14",
+        "latitude": 48.1487914,
+        "longitude": 11.5450207
+    },
+    {
+        "id": "315972795",
+        "name": "Coffee Fellows",
+        "category": "Café",
+        "street": "Leopoldstraße",
+        "houseNumber": "70",
+        "latitude": 48.1601028,
+        "longitude": 11.5860831
+    },
+    {
+        "id": "315978292",
+        "name": "Lohengrin's",
+        "category": "Pub",
+        "street": "Cosimastraße",
+        "houseNumber": "97",
+        "latitude": 48.1623976,
+        "longitude": 11.6287356
+    },
+    {
+        "id": "316916033",
+        "name": "Cafetteria Alimentari e Diversi",
+        "category": "Café",
+        "street": "Alramstraße",
+        "houseNumber": "19",
+        "latitude": 48.120892,
+        "longitude": 11.5452714
+    },
+    {
+        "id": "317361638",
+        "name": "Caffe AS",
+        "category": "Pub",
+        "street": "Fallstraße",
+        "houseNumber": "38",
+        "latitude": 48.1073534,
+        "longitude": 11.5391369
+    },
+    {
+        "id": "325823264",
+        "name": "Lamingtons",
+        "category": "Café",
+        "street": "Passauerstraße",
+        "houseNumber": "45",
+        "latitude": 48.1123871,
+        "longitude": 11.5341026
+    },
+    {
+        "id": "329092753",
+        "name": "Schelling-Salon",
+        "category": "Pub",
+        "street": "Schellingstraße",
+        "houseNumber": "54",
+        "latitude": 48.1512061,
+        "longitude": 11.5731678
+    },
+    {
+        "id": "329349239",
+        "name": "Kustermann",
+        "category": "Café",
+        "street": "Lindwurmstraße",
+        "houseNumber": "36",
+        "latitude": 48.1284077,
+        "longitude": 11.5556057
+    },
+    {
+        "id": "330430265",
+        "name": "Sarcletti",
+        "category": "Café",
+        "street": "Nymphenburger Straße",
+        "houseNumber": "155",
+        "latitude": 48.1523772,
+        "longitude": 11.5342821
+    },
+    {
+        "id": "331359817",
+        "name": "Juicy Shisha Lounge",
+        "category": "Pub",
+        "street": "Berg-am-Laim-Straße",
+        "houseNumber": "91",
+        "latitude": 48.1302436,
+        "longitude": 11.6217246
+    },
+    {
+        "id": "332790691",
+        "name": "Die Kneipe 80",
+        "category": "Pub",
+        "street": "Theresienstraße",
+        "houseNumber": "72",
+        "latitude": 48.1490085,
+        "longitude": 11.5721372
+    },
+    {
+        "id": "332792584",
+        "name": "Nespresso",
+        "category": "Café",
+        "street": "Marienplatz",
+        "houseNumber": "21",
+        "latitude": 48.1368935,
+        "longitude": 11.575822
+    },
+    {
+        "id": "336115650",
+        "name": "Kafe Kult",
+        "category": "Café",
+        "street": "Oberföhringer Straße",
+        "houseNumber": "156",
+        "latitude": 48.1649768,
+        "longitude": 11.6227482
+    },
+    {
+        "id": "336583082",
+        "name": "Mocca",
+        "category": "Pub",
+        "street": "Herzogstraße",
+        "houseNumber": "2",
+        "latitude": 48.1621608,
+        "longitude": 11.5852064
+    },
+    {
+        "id": "337484404",
+        "name": "Giesinger Stehausschank",
+        "category": "Pub",
+        "street": "Ganghoferstraße",
+        "houseNumber": "23",
+        "latitude": 48.1344458,
+        "longitude": 11.5401487
+    },
+    {
+        "id": "340077213",
+        "name": "Woerner's",
+        "category": "Café",
+        "street": "Herzog-Wilhelm-Straße",
+        "houseNumber": "29",
+        "latitude": 48.1346641,
+        "longitude": 11.567715
+    },
+    {
+        "id": "340085124",
+        "name": "Signor Rossi",
+        "category": "Café",
+        "street": "Färbergraben",
+        "houseNumber": "5",
+        "latitude": 48.1374666,
+        "longitude": 11.5713996
+    },
+    {
+        "id": "342930153",
+        "name": "Nash",
+        "category": "Café",
+        "street": "Sankt-Jakobs-Platz",
+        "houseNumber": "1",
+        "latitude": 48.1347584,
+        "longitude": 11.572862
+    },
+    {
+        "id": "343737746",
+        "name": "Schmalznudel Cafe Frischhut",
+        "category": "Café",
+        "street": "Prälat-Zistl-Straße",
+        "houseNumber": "8",
+        "latitude": 48.1348883,
+        "longitude": 11.5745521
+    },
+    {
+        "id": "344494568",
+        "name": "Valentin-Karlstadt-Musäum",
+        "category": "Museum",
+        "street": "Tal",
+        "houseNumber": "50",
+        "latitude": 48.1349538,
+        "longitude": 11.5816508,
+        "description": "closed for renovations until mid 2026"
+    },
+    {
+        "id": "344718970",
+        "name": "Burgkmairstüberl",
+        "category": "Pub",
+        "street": "Burgkmairstraße",
+        "houseNumber": "60",
+        "latitude": 48.1297085,
+        "longitude": 11.5107656
+    },
+    {
+        "id": "348146579",
+        "name": "Alter Simpl",
+        "category": "Pub",
+        "street": "Türkenstraße",
+        "houseNumber": "57",
+        "latitude": 48.150869,
+        "longitude": 11.5761839
+    },
+    {
+        "id": "348146581",
+        "name": "Zeitgeist",
+        "category": "Café",
+        "street": "Türkenstraße",
+        "houseNumber": "74",
+        "latitude": 48.1511275,
+        "longitude": 11.5766988
+    },
+    {
+        "id": "354395204",
+        "name": "Stadteilcafe",
+        "category": "Café",
+        "street": "Wintersteinstraße",
+        "houseNumber": "64",
+        "latitude": 48.2229782,
+        "longitude": 11.5559879
+    },
+    {
+        "id": "360160862",
+        "name": "Zöttl",
+        "category": "Café",
+        "street": "Jean-Paul-Richter-Straße",
+        "houseNumber": "3",
+        "latitude": 48.1116352,
+        "longitude": 11.5256128
+    },
+    {
+        "id": "362102662",
+        "name": "Donuts & Candies",
+        "category": "Café",
+        "street": "Georgenstraße",
+        "houseNumber": "41",
+        "latitude": 48.1549486,
+        "longitude": 11.5752318
+    },
+    {
+        "id": "365949573",
+        "name": "Sport Cafe",
+        "category": "Pub",
+        "street": "Riesenfeldstraße",
+        "houseNumber": "14",
+        "latitude": 48.1774661,
+        "longitude": 11.5650688
+    },
+    {
+        "id": "366569243",
+        "name": "Herrnbräu-Stüberl",
+        "category": "Pub",
+        "street": "Allacher Straße",
+        "houseNumber": "150",
+        "latitude": 48.1803992,
+        "longitude": 11.4833179
+    },
+    {
+        "id": "370745022",
+        "name": "Fendstüberl",
+        "category": "Pub",
+        "street": "Fendstraße",
+        "houseNumber": "4",
+        "latitude": 48.159871,
+        "longitude": 11.5868247
+    },
+    {
+        "id": "370745152",
+        "name": "Barschwein",
+        "category": "Pub",
+        "street": "Franzstraße",
+        "houseNumber": "3",
+        "latitude": 48.1608264,
+        "longitude": 11.5870522
+    },
+    {
+        "id": "371327909",
+        "name": "ORA Tagesbar",
+        "category": "Café",
+        "street": "Friedrichstraße",
+        "houseNumber": "30",
+        "latitude": 48.1601641,
+        "longitude": 11.5804918
+    },
+    {
+        "id": "374133430",
+        "name": "Abseits Cafe-Bar",
+        "category": "Pub",
+        "street": "Baubergerstraße",
+        "houseNumber": "19",
+        "latitude": 48.17923,
+        "longitude": 11.5093217
+    },
+    {
+        "id": "377752587",
+        "name": "Kilians",
+        "category": "Pub",
+        "street": "Frauenplatz",
+        "houseNumber": "11",
+        "latitude": 48.1387771,
+        "longitude": 11.5746454,
+        "description": "Irish Pub"
+    },
+    {
+        "id": "382977470",
+        "name": "Eiscafé Adamello",
+        "category": "Café",
+        "street": "Preysingstraße",
+        "houseNumber": "29",
+        "latitude": 48.1324409,
+        "longitude": 11.5961294
+    },
+    {
+        "id": "384918146",
+        "name": "La Boom",
+        "category": "Café",
+        "street": "Innere Wiener Straße",
+        "houseNumber": "57",
+        "latitude": 48.1346,
+        "longitude": 11.5971619
+    },
+    {
+        "id": "386928370",
+        "name": "Café am Josephsplatz",
+        "category": "Café",
+        "street": "Augustenstraße",
+        "houseNumber": "112",
+        "latitude": 48.1543403,
+        "longitude": 11.566486
+    },
+    {
+        "id": "387472999",
+        "name": "Gmiatliches Eck",
+        "category": "Pub",
+        "street": "Säbener Straße",
+        "houseNumber": "7",
+        "latitude": 48.107593,
+        "longitude": 11.574839
+    },
+    {
+        "id": "387487629",
+        "name": "Barley Bar & Grill",
+        "category": "Pub",
+        "street": "Otkerstraße",
+        "houseNumber": "34",
+        "latitude": 48.1064656,
+        "longitude": 11.575426
+    },
+    {
+        "id": "388183268",
+        "name": "Zum neuen Hut",
+        "category": "Pub",
+        "street": "Feilitzschstraße",
+        "houseNumber": "11",
+        "latitude": 48.1615512,
+        "longitude": 11.5882386,
+        "description": "heißt jetzt wirklich neuer Hut (eigenlich schon seit 2010), jetzt auch aussen, obwohl der Rechteinhaber vom \"Alten Hut\" inzwischen gestorben und der Name jetzt wieder frei wäre"
+    },
+    {
+        "id": "388183926",
+        "name": "Este Bar",
+        "category": "Pub",
+        "street": "Feilitzschstraße",
+        "houseNumber": "19",
+        "latitude": 48.1611023,
+        "longitude": 11.5898587
+    },
+    {
+        "id": "388184154",
+        "name": "Schwabinger 7",
+        "category": "Pub",
+        "street": "Feilitzschstraße",
+        "houseNumber": "15",
+        "latitude": 48.1611664,
+        "longitude": 11.5895241
+    },
+    {
+        "id": "388184279",
+        "name": "Rennbahn",
+        "category": "Pub",
+        "street": "Feilitzschstraße",
+        "houseNumber": "12",
+        "latitude": 48.1611448,
+        "longitude": 11.5890367
+    },
+    {
+        "id": "390909981",
+        "name": "A Museum of contemporary art",
+        "category": "Museum",
+        "street": "Schellingstraße",
+        "houseNumber": "3",
+        "latitude": 48.1492929,
+        "longitude": 11.5790381
+    },
+    {
+        "id": "390919931",
+        "name": "Bar Tabacco",
+        "category": "Café",
+        "street": "Hartmannstraße",
+        "houseNumber": "8",
+        "latitude": 48.1394903,
+        "longitude": 11.5726579
+    },
+    {
+        "id": "390928284",
+        "name": "Cafe an der Uni",
+        "category": "Café",
+        "street": "Ludwigstraße",
+        "houseNumber": "24",
+        "latitude": 48.1495338,
+        "longitude": 11.5811699
+    },
+    {
+        "id": "391651197",
+        "name": "Cafe Reicherzer",
+        "category": "Café",
+        "street": "Limesstraße",
+        "houseNumber": "14",
+        "latitude": 48.1538914,
+        "longitude": 11.4183285
+    },
+    {
+        "id": "403756662",
+        "name": "Fräulein Müller Kiosk",
+        "category": "Pub",
+        "street": "Gunezrainerstraße",
+        "houseNumber": "6",
+        "latitude": 48.1602691,
+        "longitude": 11.5916592
+    },
+    {
+        "id": "403757349",
+        "name": "The Potting Shed",
+        "category": "Pub",
+        "street": "Occamstraße",
+        "houseNumber": "11",
+        "latitude": 48.1622585,
+        "longitude": 11.5894638
+    },
+    {
+        "id": "409497603",
+        "name": "Götterspeise Café Chocolaterie",
+        "category": "Café",
+        "street": "Jahnstraße",
+        "houseNumber": "30",
+        "latitude": 48.1284709,
+        "longitude": 11.5694923
+    },
+    {
+        "id": "409497604",
+        "name": "Luffy Pancake",
+        "category": "Café",
+        "street": "Pestalozzistraße",
+        "houseNumber": "24",
+        "latitude": 48.1303327,
+        "longitude": 11.5671564
+    },
+    {
+        "id": "409497605",
+        "name": "Patisserie Cafe Dukatz",
+        "category": "Café",
+        "street": "Klenzestraße",
+        "houseNumber": "69",
+        "latitude": 48.1284832,
+        "longitude": 11.5711269
+    },
+    {
+        "id": "409497606",
+        "name": "Sax",
+        "category": "Pub",
+        "street": "Hans-Sachs-Straße",
+        "houseNumber": "5",
+        "latitude": 48.1301349,
+        "longitude": 11.5704389
+    },
+    {
+        "id": "409497629",
+        "name": "München '72",
+        "category": "Pub",
+        "street": "Holzstraße",
+        "houseNumber": "14",
+        "latitude": 48.1301414,
+        "longitude": 11.5678276,
+        "description": "Die Räumlichkeiten gehören zum links benachbarten \"München '72\"."
+    },
+    {
+        "id": "410141502",
+        "name": "Valentin stüberl",
+        "category": "Pub",
+        "street": "Dreimühlenstraße",
+        "houseNumber": "28",
+        "latitude": 48.1213832,
+        "longitude": 11.5601005
+    },
+    {
+        "id": "413494629",
+        "name": "Cafe23",
+        "category": "Pub",
+        "street": "Grünwalder Straße",
+        "houseNumber": "9",
+        "latitude": 48.1102882,
+        "longitude": 11.5757628
+    },
+    {
+        "id": "416821870",
+        "name": "Stadion an der Schleißheimer Straße",
+        "category": "Pub",
+        "street": "Schleißheimer Straße",
+        "houseNumber": "82",
+        "latitude": 48.1539415,
+        "longitude": 11.5611944
+    },
+    {
+        "id": "417637012",
+        "name": "Venezia",
+        "category": "Café",
+        "street": "Kurfürstenplatz",
+        "houseNumber": "8",
+        "latitude": 48.1601624,
+        "longitude": 11.5753741,
+        "description": "Eisdiele und Cafe"
+    },
+    {
+        "id": "417672161",
+        "name": "Al Bacio",
+        "category": "Café",
+        "street": "Hohenzollernstraße",
+        "houseNumber": "37",
+        "latitude": 48.160021,
+        "longitude": 11.5779186,
+        "description": "Caffébar und Proseccheria mit Mittagstisch"
+    },
+    {
+        "id": "417672169",
+        "name": "La Tazza d'Oro",
+        "category": "Café",
+        "street": "Hohenzollernstraße",
+        "houseNumber": "13",
+        "latitude": 48.1597214,
+        "longitude": 11.5825186
+    },
+    {
+        "id": "418589822",
+        "name": "Backspielhaus",
+        "category": "Café",
+        "street": "Tengstraße",
+        "houseNumber": "14",
+        "latitude": 48.1568019,
+        "longitude": 11.568829
+    },
+    {
+        "id": "418769233",
+        "name": "delmocca",
+        "category": "Café",
+        "street": "Clemensstraße",
+        "houseNumber": "20",
+        "latitude": 48.1638572,
+        "longitude": 11.582414
+    },
+    {
+        "id": "418772000",
+        "name": "Caffe Conte",
+        "category": "Café",
+        "street": "Ainmillerstraße",
+        "houseNumber": "10",
+        "latitude": 48.1586619,
+        "longitude": 11.5831118
+    },
+    {
+        "id": "418955835",
+        "name": "Café Grosshadern",
+        "category": "Café",
+        "street": "Großhaderner Straße",
+        "houseNumber": "6",
+        "latitude": 48.1161227,
+        "longitude": 11.47963
+    },
+    {
+        "id": "419820434",
+        "name": "Café Botanischer Garten",
+        "category": "Café",
+        "street": "Menzinger Straße",
+        "houseNumber": "65",
+        "latitude": 48.1626543,
+        "longitude": 11.5003151
+    },
+    {
+        "id": "429378916",
+        "name": "Ruffini",
+        "category": "Café",
+        "street": "Orffstraße",
+        "houseNumber": "22",
+        "latitude": 48.1580486,
+        "longitude": 11.5353866
+    },
+    {
+        "id": "432654033",
+        "name": "Rheinpfalz",
+        "category": "Pub",
+        "street": "Kurfürstenstraße",
+        "houseNumber": "35",
+        "latitude": 48.1565094,
+        "longitude": 11.5757743
+    },
+    {
+        "id": "433732740",
+        "name": "CoCo Fresh Tea & Juice",
+        "category": "Café",
+        "street": "Barer Straße",
+        "houseNumber": "68",
+        "latitude": 48.1516632,
+        "longitude": 11.5738643
+    },
+    {
+        "id": "433909587",
+        "name": "Morso Cafe",
+        "category": "Café",
+        "street": "Elisabethstraße",
+        "houseNumber": "7",
+        "latitude": 48.1580118,
+        "longitude": 11.5719025
+    },
+    {
+        "id": "433909590",
+        "name": "Cafe Clara",
+        "category": "Café",
+        "street": "Isabellastraße",
+        "houseNumber": "8",
+        "latitude": 48.1559258,
+        "longitude": 11.5705445,
+        "description": "Täglich frischgebackene, hausgemachte Kuchen, Quiches und Tartes."
+    },
+    {
+        "id": "433909594",
+        "name": "Salon Irkutsk",
+        "category": "Pub",
+        "street": "Isabellastraße",
+        "houseNumber": "4",
+        "latitude": 48.1556705,
+        "longitude": 11.5703844,
+        "description": "2020 erweiterte Freischankfläche"
+    },
+    {
+        "id": "433909665",
+        "name": "Schorsch Bar",
+        "category": "Pub",
+        "street": "Georgenstraße",
+        "houseNumber": "119",
+        "latitude": 48.1572131,
+        "longitude": 11.5615746
+    },
+    {
+        "id": "442683436",
+        "name": "Le Florida",
+        "category": "Pub",
+        "street": "Georgenstraße",
+        "houseNumber": "48",
+        "latitude": 48.1551479,
+        "longitude": 11.5759951
+    },
+    {
+        "id": "442683440",
+        "name": "Mackbear Coffee CO",
+        "category": "Café",
+        "street": "Leopoldstraße",
+        "houseNumber": "44",
+        "latitude": 48.1570593,
+        "longitude": 11.5848953
+    },
+    {
+        "id": "442683442",
+        "name": "Paulo Espressobar",
+        "category": "Café",
+        "street": "Türkenstraße",
+        "houseNumber": "69",
+        "latitude": 48.1516636,
+        "longitude": 11.5766539
+    },
+    {
+        "id": "442683446",
+        "name": "Pavesi",
+        "category": "Café",
+        "street": "Türkenstraße",
+        "houseNumber": "67",
+        "latitude": 48.1513268,
+        "longitude": 11.5764746
+    },
+    {
+        "id": "442683448",
+        "name": "Horses, Cars & Stars",
+        "category": "Pub",
+        "street": "Schellingstraße",
+        "houseNumber": "24c",
+        "latitude": 48.1504201,
+        "longitude": 11.5772852
+    },
+    {
+        "id": "443435665",
+        "name": "Feuerwehrmuseum",
+        "category": "Museum",
+        "street": "Unterer Anger",
+        "houseNumber": "9",
+        "latitude": 48.1328002,
+        "longitude": 11.570609
+    },
+    {
+        "id": "445638988",
+        "name": "Tony's EssBar",
+        "category": "Pub",
+        "street": "Georgenschwaigstraße",
+        "houseNumber": "42",
+        "latitude": 48.1807842,
+        "longitude": 11.5729024
+    },
+    {
+        "id": "445639076",
+        "name": "Peppino",
+        "category": "Café",
+        "street": "Knorrstraße",
+        "houseNumber": "91",
+        "latitude": 48.1871404,
+        "longitude": 11.5723699
+    },
+    {
+        "id": "447786250",
+        "name": "Woerner's",
+        "category": "Café",
+        "street": "Marienplatz",
+        "houseNumber": "1",
+        "latitude": 48.1375626,
+        "longitude": 11.5748577
+    },
+    {
+        "id": "447786256",
+        "name": "Bar Alpina im Schuster",
+        "category": "Café",
+        "street": "Rindermarkt",
+        "houseNumber": "13/14",
+        "latitude": 48.1363297,
+        "longitude": 11.5742114
+    },
+    {
+        "id": "447786261",
+        "name": "Daily Matcha",
+        "category": "Café",
+        "street": "Petersplatz",
+        "houseNumber": "9",
+        "latitude": 48.1361744,
+        "longitude": 11.5758871
+    },
+    {
+        "id": "447786265",
+        "name": "Rischart",
+        "category": "Café",
+        "street": "Viktualienmarkt",
+        "houseNumber": "2",
+        "latitude": 48.1361034,
+        "longitude": 11.5764717
+    },
+    {
+        "id": "447786266",
+        "name": "Le Clou",
+        "category": "Pub",
+        "street": "Heiliggeiststraße",
+        "houseNumber": "1",
+        "latitude": 48.1360172,
+        "longitude": 11.5778239
+    },
+    {
+        "id": "447786271",
+        "name": "Heiliggeist 1 Bar",
+        "category": "Pub",
+        "street": "Heiliggeiststraße",
+        "houseNumber": "1",
+        "latitude": 48.1358496,
+        "longitude": 11.5776633
+    },
+    {
+        "id": "447786276",
+        "name": "Coffee Fellows",
+        "category": "Café",
+        "street": "Tal",
+        "houseNumber": "33",
+        "latitude": 48.1356194,
+        "longitude": 11.5810691
+    },
+    {
+        "id": "450064799",
+        "name": "Stehausschank Gärtnerplatz",
+        "category": "Pub",
+        "street": "Klenzestraße",
+        "houseNumber": "47",
+        "latitude": 48.1302069,
+        "longitude": 11.5738172
+    },
+    {
+        "id": "450517323",
+        "name": "Höflinger",
+        "category": "Café",
+        "street": "Erich-Kästner-Straße",
+        "houseNumber": "2",
+        "latitude": 48.1619836,
+        "longitude": 11.5688707
+    },
+    {
+        "id": "469223644",
+        "name": "Café Puck",
+        "category": "Café",
+        "street": "Türkenstraße",
+        "houseNumber": "33",
+        "latitude": 48.1494027,
+        "longitude": 11.575224
+    },
+    {
+        "id": "485905491",
+        "name": "Irmgard Stüberl",
+        "category": "Pub",
+        "street": "Milbertshofener Straße",
+        "houseNumber": "29",
+        "latitude": 48.1846312,
+        "longitude": 11.5708348
+    },
+    {
+        "id": "490432710",
+        "name": "Sommer",
+        "category": "Café",
+        "street": "Sommerstraße",
+        "houseNumber": "33",
+        "latitude": 48.1199436,
+        "longitude": 11.5721241
+    },
+    {
+        "id": "503603679",
+        "name": "Das Maria",
+        "category": "Café",
+        "street": "Klenzestraße",
+        "houseNumber": "97",
+        "latitude": 48.1263657,
+        "longitude": 11.5701392
+    },
+    {
+        "id": "508830396",
+        "name": "Isarflimmern",
+        "category": "Pub",
+        "street": "Fallstraße",
+        "houseNumber": "24",
+        "latitude": 48.1088586,
+        "longitude": 11.5385416
+    },
+    {
+        "id": "521966710",
+        "name": "McCafé",
+        "category": "Café",
+        "street": "Maria-Probst-Straße",
+        "houseNumber": "1",
+        "latitude": 48.1922687,
+        "longitude": 11.5846994
+    },
+    {
+        "id": "523279142",
+        "name": "Brandner Kaspar",
+        "category": "Pub",
+        "street": "Sommerstraße",
+        "houseNumber": "39",
+        "latitude": 48.1191977,
+        "longitude": 11.5714785
+    },
+    {
+        "id": "552444453",
+        "name": "NINE FINE ROASTERY & BAR",
+        "category": "Café",
+        "street": "Hirschgartenallee",
+        "houseNumber": "24",
+        "latitude": 48.1525686,
+        "longitude": 11.5086356
+    },
+    {
+        "id": "558816267",
+        "name": "Café Münchner Freiheit",
+        "category": "Café",
+        "street": "Münchner Freiheit",
+        "houseNumber": "20",
+        "latitude": 48.1634327,
+        "longitude": 11.5876091
+    },
+    {
+        "id": "577517153",
+        "name": "Cafe am Beethoven Platz",
+        "category": "Café",
+        "street": "Goethestraße",
+        "houseNumber": "51",
+        "latitude": 48.1333879,
+        "longitude": 11.5587693,
+        "description": "Das Hotel Mariandl und das Cafe am Beethoven Platz gehören zusammen, weshalb viele Eigenschaften identisch sind."
+    },
+    {
+        "id": "597752677",
+        "name": "Niederlassung",
+        "category": "Pub",
+        "street": "Buttermelcherstraße",
+        "houseNumber": "6",
+        "latitude": 48.1326484,
+        "longitude": 11.5773798,
+        "description": "You can pay at this merchant with Bitcoin via a Lightning POS"
+    },
+    {
+        "id": "597822549",
+        "name": "Carpe Diem",
+        "category": "Café",
+        "street": "Pfeuferstraße",
+        "houseNumber": "14",
+        "latitude": 48.1254995,
+        "longitude": 11.5403445
+    },
+    {
+        "id": "608369753",
+        "name": "Zimt & Koriander",
+        "category": "Café",
+        "street": "Lerchenauer Straße",
+        "houseNumber": "189",
+        "latitude": 48.1960111,
+        "longitude": 11.5458422
+    },
+    {
+        "id": "633177917",
+        "name": "bei Vaia",
+        "category": "Pub",
+        "street": "Ruppertstraße",
+        "houseNumber": "30",
+        "latitude": 48.1248115,
+        "longitude": 11.5505178
+    },
+    {
+        "id": "639114672",
+        "name": "StuCafé Audimax",
+        "category": "Café",
+        "street": "Arcisstraße",
+        "houseNumber": "21",
+        "latitude": 48.1494665,
+        "longitude": 11.5671026
+    },
+    {
+        "id": "639133117",
+        "name": "The Old Irish",
+        "category": "Pub",
+        "street": "Giselastraße",
+        "houseNumber": "11",
+        "latitude": 48.155381,
+        "longitude": 11.585895
+    },
+    {
+        "id": "650021965",
+        "name": "Kathi's Quelle",
+        "category": "Pub",
+        "street": "Wasserburger Landstraße",
+        "houseNumber": "108",
+        "latitude": 48.1177088,
+        "longitude": 11.6881066
+    },
+    {
+        "id": "652857103",
+        "name": "Kleine Rose",
+        "category": "Pub",
+        "street": "Gaßnerstraße",
+        "houseNumber": "3",
+        "latitude": 48.1543797,
+        "longitude": 11.5092069
+    },
+    {
+        "id": "656252910",
+        "name": "sweet spot kaffee",
+        "category": "Café",
+        "street": "Heiliggeiststraße",
+        "houseNumber": "1",
+        "latitude": 48.1357968,
+        "longitude": 11.5776163
+    },
+    {
+        "id": "656252925",
+        "name": "Guglhupf",
+        "category": "Café",
+        "street": "Kaufingerstraße",
+        "houseNumber": "5",
+        "latitude": 48.1369916,
+        "longitude": 11.5730664
+    },
+    {
+        "id": "656252993",
+        "name": "Guido al Duomo",
+        "category": "Café",
+        "street": "Frauenplatz",
+        "houseNumber": "12",
+        "latitude": 48.1389272,
+        "longitude": 11.5742388
+    },
+    {
+        "id": "656253064",
+        "name": "Bier- und Oktoberfestmuseum",
+        "category": "Museum",
+        "street": "Sterneckerstraße",
+        "houseNumber": "2",
+        "latitude": 48.135246,
+        "longitude": 11.5802467
+    },
+    {
+        "id": "656295754",
+        "name": "Macinino",
+        "category": "Café",
+        "street": "Neuhauser Straße",
+        "houseNumber": "47",
+        "latitude": 48.138537,
+        "longitude": 11.566739
+    },
+    {
+        "id": "656295779",
+        "name": "Café Bistro Rendezvous",
+        "category": "Café",
+        "street": "Karlsplatz",
+        "houseNumber": "5",
+        "latitude": 48.1397329,
+        "longitude": 11.56678
+    },
+    {
+        "id": "660718890",
+        "name": "Cafe Factory",
+        "category": "Café",
+        "street": "Forstenrieder Allee",
+        "houseNumber": "61",
+        "latitude": 48.0943275,
+        "longitude": 11.4987648
+    },
+    {
+        "id": "663545951",
+        "name": "Cabane",
+        "category": "Pub",
+        "street": "Theresienstraße",
+        "houseNumber": "40",
+        "latitude": 48.1481328,
+        "longitude": 11.5752379
+    },
+    {
+        "id": "666750045",
+        "name": "Café Schuntner",
+        "category": "Café",
+        "street": "Plinganserstraße",
+        "houseNumber": "10",
+        "latitude": 48.1212463,
+        "longitude": 11.5408759
+    },
+    {
+        "id": "667076584",
+        "name": "Dankl 32",
+        "category": "Café",
+        "street": "Danklstraße",
+        "houseNumber": "32",
+        "latitude": 48.1174312,
+        "longitude": 11.5468069
+    },
+    {
+        "id": "669542855",
+        "name": "Hüller",
+        "category": "Café",
+        "street": "Eduard-Schmid-Straße",
+        "houseNumber": "8",
+        "latitude": 48.1268977,
+        "longitude": 11.5791734
+    },
+    {
+        "id": "673715731",
+        "name": "Kindermuseum München",
+        "category": "Museum",
+        "street": "Willy-Brandt-Allee",
+        "houseNumber": "10",
+        "latitude": 48.1329928,
+        "longitude": 11.6966379
+    },
+    {
+        "id": "673851010",
+        "name": "Giasinga Schlümpfe",
+        "category": "Pub",
+        "street": "Humboldtstraße",
+        "houseNumber": "12",
+        "latitude": 48.1204119,
+        "longitude": 11.5727243
+    },
+    {
+        "id": "678046339",
+        "name": "Om Nom Nom Café",
+        "category": "Café",
+        "street": "Volkartstraße",
+        "houseNumber": "70",
+        "latitude": 48.1583613,
+        "longitude": 11.5416801,
+        "description": "cards only"
+    },
+    {
+        "id": "692957734",
+        "name": "Eiscafe La Fantastica",
+        "category": "Café",
+        "street": "Boschetsrieder Straße",
+        "houseNumber": "118",
+        "latitude": 48.0992488,
+        "longitude": 11.5197353
+    },
+    {
+        "id": "699724074",
+        "name": "Bäckerei Ziegler",
+        "category": "Café",
+        "street": "Tegernseer Platz",
+        "houseNumber": "4",
+        "latitude": 48.1154282,
+        "longitude": 11.5794882
+    },
+    {
+        "id": "699797368",
+        "name": "Ned Kelly's",
+        "category": "Pub",
+        "street": "Frauenplatz",
+        "houseNumber": "11",
+        "latitude": 48.1387972,
+        "longitude": 11.5746472,
+        "description": "Australian Bar"
+    },
+    {
+        "id": "700042712",
+        "name": "Giesinger Stehausschank",
+        "category": "Pub",
+        "street": "Sendlinger-Tor-Platz",
+        "houseNumber": "10",
+        "latitude": 48.1339833,
+        "longitude": 11.5668731
+    },
+    {
+        "id": "701541172",
+        "name": "Starbucks",
+        "category": "Café",
+        "street": "Rosental",
+        "houseNumber": "7",
+        "latitude": 48.1353869,
+        "longitude": 11.5752894
+    },
+    {
+        "id": "704397712",
+        "name": "DenkStätte Weiße Rose",
+        "category": "Museum",
+        "street": "Geschwister-Scholl-Platz",
+        "houseNumber": "1",
+        "latitude": 48.1509389,
+        "longitude": 11.5798366
+    },
+    {
+        "id": "705581658",
+        "name": "Cafe Bar Dalas",
+        "category": "Pub",
+        "street": "Ganghoferstraße",
+        "houseNumber": "74",
+        "latitude": 48.1284271,
+        "longitude": 11.5386139
+    },
+    {
+        "id": "712613252",
+        "name": "Seppl's",
+        "category": "Café",
+        "street": "Klugstraße",
+        "houseNumber": "30",
+        "latitude": 48.162604,
+        "longitude": 11.5231586
+    },
+    {
+        "id": "719808969",
+        "name": "Pils- & Cocktailbar HappyCorner",
+        "category": "Pub",
+        "street": "Franz-Marc-Straße",
+        "houseNumber": "10",
+        "latitude": 48.1705481,
+        "longitude": 11.5345836
+    },
+    {
+        "id": "719809009",
+        "name": "Nini Café & Konditorei Borstei",
+        "category": "Café",
+        "street": "Franz-Marc-Straße",
+        "houseNumber": "9",
+        "latitude": 48.1706192,
+        "longitude": 11.5340589,
+        "description": "Täglich wechselndes Angebot, immer 1x Fleisch/ 1x vegetarisch und süßes Gebäck, vegan von Tageskarte abhängig."
+    },
+    {
+        "id": "722320867",
+        "name": "Zöttl",
+        "category": "Café",
+        "street": "Wolfratshauser Straße",
+        "houseNumber": "208",
+        "latitude": 48.081096,
+        "longitude": 11.5285175
+    },
+    {
+        "id": "729311202",
+        "name": "Südstadt",
+        "category": "Pub",
+        "street": "Thalkirchner Straße",
+        "houseNumber": "29",
+        "latitude": 48.1237094,
+        "longitude": 11.5608681
+    },
+    {
+        "id": "741557385",
+        "name": "Ping Ping Café",
+        "category": "Café",
+        "street": "Grillparzerstraße",
+        "houseNumber": "27",
+        "latitude": 48.1353862,
+        "longitude": 11.6094374
+    },
+    {
+        "id": "768669326",
+        "name": "Sir John",
+        "category": "Pub",
+        "street": "Altostraße",
+        "houseNumber": "13",
+        "latitude": 48.1583895,
+        "longitude": 11.4150341
+    },
+    {
+        "id": "773013666",
+        "name": "Harry's",
+        "category": "Pub",
+        "street": "Hofmannstraße",
+        "houseNumber": "43",
+        "latitude": 48.0977643,
+        "longitude": 11.5284791
+    },
+    {
+        "id": "790030180",
+        "name": "Gerner Café",
+        "category": "Café",
+        "street": "Gerner Straße",
+        "houseNumber": "19",
+        "latitude": 48.161245,
+        "longitude": 11.5236126
+    },
+    {
+        "id": "793849345",
+        "name": "Die Leckerei",
+        "category": "Café",
+        "street": "Sandtnerstraße",
+        "houseNumber": "1",
+        "latitude": 48.1329448,
+        "longitude": 11.539441
+    },
+    {
+        "id": "822815495",
+        "name": "Romina´s",
+        "category": "Pub",
+        "street": "Garmischer Straße",
+        "houseNumber": "236",
+        "latitude": 48.1184444,
+        "longitude": 11.5169749
+    },
+    {
+        "id": "822997869",
+        "name": "Bistro No.2",
+        "category": "Pub",
+        "street": "Fürstenrieder Straße",
+        "houseNumber": "5",
+        "latitude": 48.1425136,
+        "longitude": 11.5039485
+    },
+    {
+        "id": "838507439",
+        "name": "New Era",
+        "category": "Café",
+        "street": "Münchner Freiheit",
+        "houseNumber": "12",
+        "latitude": 48.1626752,
+        "longitude": 11.5873006
+    },
+    {
+        "id": "843782171",
+        "name": "Butter",
+        "category": "Café",
+        "street": "Blutenburgstraße",
+        "houseNumber": "90",
+        "latitude": 48.1499159,
+        "longitude": 11.5404547,
+        "description": "Kaffee, Panini, Kuchen"
+    },
+    {
+        "id": "843807395",
+        "name": "Eiscafe Venezia",
+        "category": "Café",
+        "street": "Rotkreuzplatz",
+        "houseNumber": "8",
+        "latitude": 48.1531376,
+        "longitude": 11.5325876
+    },
+    {
+        "id": "844503789",
+        "name": "Bar Centrale",
+        "category": "Café",
+        "street": "Ledererstraße",
+        "houseNumber": "23",
+        "latitude": 48.1368034,
+        "longitude": 11.5797997
+    },
+    {
+        "id": "845000594",
+        "name": "Café Wohnwerk",
+        "category": "Café",
+        "street": "Schäringerplatz",
+        "houseNumber": "13",
+        "latitude": 48.1499108,
+        "longitude": 11.5270706
+    },
+    {
+        "id": "845394050",
+        "name": "Flex",
+        "category": "Pub",
+        "street": "Ringseisstraße",
+        "houseNumber": "11a",
+        "latitude": 48.1295075,
+        "longitude": 11.5611265
+    },
+    {
+        "id": "848518125",
+        "name": "Vollaths",
+        "category": "Café",
+        "street": "Thalkirchner Straße",
+        "houseNumber": "1",
+        "latitude": 48.1322621,
+        "longitude": 11.566946
+    },
+    {
+        "id": "851585366",
+        "name": "Café Zimt & Trallala",
+        "category": "Café",
+        "street": "Ehrengutstraße",
+        "houseNumber": "9",
+        "latitude": 48.1213132,
+        "longitude": 11.5599935
+    },
+    {
+        "id": "863197109",
+        "name": "Nonna's",
+        "category": "Café",
+        "street": "Karlstraße",
+        "houseNumber": "52",
+        "latitude": 48.1451082,
+        "longitude": 11.5599412
+    },
+    {
+        "id": "871098511",
+        "name": "Tribu Café Bar Lounge",
+        "category": "Café",
+        "street": "Lindwurmstraße",
+        "houseNumber": "25",
+        "latitude": 48.1313315,
+        "longitude": 11.5626809
+    },
+    {
+        "id": "874287512",
+        "name": "Cafe und Bar Schreibwaren am Schloß",
+        "category": "Café",
+        "street": "Südliche Auffahrtsallee",
+        "houseNumber": "78",
+        "latitude": 48.1582014,
+        "longitude": 11.5108017
+    },
+    {
+        "id": "883115925",
+        "name": "Café Drilling",
+        "category": "Café",
+        "street": "Tegernseer Landstraße",
+        "houseNumber": "49",
+        "latitude": 48.1161742,
+        "longitude": 11.5807512
+    },
+    {
+        "id": "886077754",
+        "name": "Café Glück",
+        "category": "Café",
+        "street": "Palmstraße",
+        "houseNumber": "4",
+        "latitude": 48.1258955,
+        "longitude": 11.5689712
+    },
+    {
+        "id": "886117299",
+        "name": "Deutsche Eiche",
+        "category": "Landmark",
+        "street": "Reichenbachstraße",
+        "houseNumber": "13",
+        "latitude": 48.1327178,
+        "longitude": 11.5762904
+    },
+    {
+        "id": "893397453",
+        "name": "Riva Bar (Augustiner Bräu Stub'n)",
+        "category": "Pub",
+        "street": "Milbertshofener Straße",
+        "houseNumber": "94",
+        "latitude": 48.1836427,
+        "longitude": 11.5790046
+    },
+    {
+        "id": "893397457",
+        "name": "Kama Team Dienstleistungen",
+        "category": "Café",
+        "street": "Milbertshofener Straße",
+        "houseNumber": "92",
+        "latitude": 48.1837482,
+        "longitude": 11.5790295
+    },
+    {
+        "id": "903668883",
+        "name": "Vivo!",
+        "category": "Pub",
+        "street": "Lothringer Straße",
+        "houseNumber": "11",
+        "latitude": 48.1275912,
+        "longitude": 11.5977303,
+        "description": "An Samstagen mit Bundesliga bereits ab 15 Uhr geöffnet"
+    },
+    {
+        "id": "914961566",
+        "name": "Elly Seidl Pralinen",
+        "category": "Café",
+        "street": "Am Schützeneck",
+        "houseNumber": "10",
+        "latitude": 48.1479948,
+        "longitude": 11.4604365
+    },
+    {
+        "id": "916461974",
+        "name": "Coucou Food Market",
+        "category": "Café",
+        "street": "Holzstraße",
+        "houseNumber": "21",
+        "latitude": 48.1294826,
+        "longitude": 11.5682066
+    },
+    {
+        "id": "944526768",
+        "name": "Konditorei Widmann",
+        "category": "Café",
+        "street": "Heiglhofstraße",
+        "houseNumber": "11",
+        "latitude": 48.1134267,
+        "longitude": 11.4787935
+    },
+    {
+        "id": "945913069",
+        "name": "Baader Cafe",
+        "category": "Café",
+        "street": "Baaderstraße",
+        "houseNumber": "47",
+        "latitude": 48.1292319,
+        "longitude": 11.5771318
+    },
+    {
+        "id": "976966593",
+        "name": "Deli Star",
+        "category": "Café",
+        "street": "Amalienstraße",
+        "houseNumber": "40",
+        "latitude": 48.1488434,
+        "longitude": 11.577636
+    },
+    {
+        "id": "976966786",
+        "name": "Piccolina",
+        "category": "Café",
+        "street": "Amalienstraße",
+        "houseNumber": "44",
+        "latitude": 48.1490405,
+        "longitude": 11.5777532
+    },
+    {
+        "id": "981232932",
+        "name": "Tushita Teehaus",
+        "category": "Café",
+        "street": "Klenzestraße",
+        "houseNumber": "53",
+        "latitude": 48.1297033,
+        "longitude": 11.5730509
+    },
+    {
+        "id": "999383274",
+        "name": "Weyerer Cafe",
+        "category": "Café",
+        "street": "Mühlbaurstraße",
+        "houseNumber": "36",
+        "latitude": 48.1421796,
+        "longitude": 11.6140458
+    },
+    {
+        "id": "1005405936",
+        "name": "Teeseele München",
+        "category": "Café",
+        "street": "Schellingstraße",
+        "houseNumber": "34",
+        "latitude": 48.1505867,
+        "longitude": 11.5752186
+    },
+    {
+        "id": "1022941683",
+        "name": "»Zum Stiftl« Stehausschank",
+        "category": "Café",
+        "street": "Prälat-Zistl-Straße",
+        "houseNumber": "12",
+        "latitude": 48.1347609,
+        "longitude": 11.5744401,
+        "description": "cafe bar wine food"
+    },
+    {
+        "id": "1039009517",
+        "name": "busner.s",
+        "category": "Café",
+        "street": "Nymphenburger Straße",
+        "houseNumber": "1",
+        "latitude": 48.1472176,
+        "longitude": 11.5582941
+    },
+    {
+        "id": "1054372529",
+        "name": "Passauer Stüberl",
+        "category": "Pub",
+        "street": "Passauerstraße",
+        "houseNumber": "24",
+        "latitude": 48.1142527,
+        "longitude": 11.5334798
+    },
+    {
+        "id": "1077024233",
+        "name": "Café Inbar",
+        "category": "Pub",
+        "street": "Landsberger Straße",
+        "houseNumber": "123",
+        "latitude": 48.1399697,
+        "longitude": 11.5317092
+    },
+    {
+        "id": "1077024237",
+        "name": "Cafe BALU",
+        "category": "Pub",
+        "street": "Astallerstraße",
+        "houseNumber": "2",
+        "latitude": 48.1397794,
+        "longitude": 11.5311012
+    },
+    {
+        "id": "1084364134",
+        "name": "Café Lozzi",
+        "category": "Café",
+        "street": "Pestalozzistraße",
+        "houseNumber": "8",
+        "latitude": 48.13159,
+        "longitude": 11.5672913
+    },
+    {
+        "id": "1091413909",
+        "name": "Cafe Bistro Pfundig",
+        "category": "Café",
+        "street": "Lindwurmstraße",
+        "houseNumber": "95a",
+        "latitude": 48.1283005,
+        "longitude": 11.5576728
+    },
+    {
+        "id": "1091830676",
+        "name": "Aroma",
+        "category": "Pub",
+        "street": "Kapuzinerstraße",
+        "houseNumber": "4",
+        "latitude": 48.1277561,
+        "longitude": 11.5565113
+    },
+    {
+        "id": "1092617225",
+        "name": "Graf Konrad Stüberl",
+        "category": "Pub",
+        "street": "Graf-Konrad-Straße",
+        "houseNumber": "20",
+        "latitude": 48.1824941,
+        "longitude": 11.5641158
+    },
+    {
+        "id": "1103687492",
+        "name": "Jaqoub's",
+        "category": "Café",
+        "street": "Bunzlauer Straße",
+        "houseNumber": "15",
+        "latitude": 48.181179,
+        "longitude": 11.5088248
+    },
+    {
+        "id": "1126123160",
+        "name": "P. Bar - Das Provisorium",
+        "category": "Pub",
+        "street": "Gravelottestraße",
+        "houseNumber": "7",
+        "latitude": 48.1275907,
+        "longitude": 11.6010328
+    },
+    {
+        "id": "1132403384",
+        "name": "Kunstarkaden",
+        "category": "Museum",
+        "street": "Sparkassenstraße",
+        "houseNumber": "3",
+        "latitude": 48.1370351,
+        "longitude": 11.5775787
+    },
+    {
+        "id": "1132414558",
+        "name": "Rathausgalerie | Kunsthalle",
+        "category": "Museum",
+        "street": "Marienplatz",
+        "houseNumber": "8",
+        "latitude": 48.1381554,
+        "longitude": 11.5758936
+    },
+    {
+        "id": "1139267395",
+        "name": "Zur Angerlohe",
+        "category": "Pub",
+        "street": "Wiebekingstraße",
+        "houseNumber": "2",
+        "latitude": 48.1858972,
+        "longitude": 11.4789624
+    },
+    {
+        "id": "1140479138",
+        "name": "Café ZimtZicke",
+        "category": "Café",
+        "street": "Elsässer Straße",
+        "houseNumber": "25",
+        "latitude": 48.1302528,
+        "longitude": 11.6052505
+    },
+    {
+        "id": "1146404526",
+        "name": "Müller",
+        "category": "Café",
+        "street": "Lindwurmstraße",
+        "houseNumber": "1",
+        "latitude": 48.1328386,
+        "longitude": 11.565914
+    },
+    {
+        "id": "1157455171",
+        "name": "Butterbrot",
+        "category": "Café",
+        "street": "Feilitzschstraße",
+        "houseNumber": "31",
+        "latitude": 48.1608586,
+        "longitude": 11.5914521
+    },
+    {
+        "id": "1159760696",
+        "name": "Cotidiano",
+        "category": "Café",
+        "street": "Gärtnerplatz",
+        "houseNumber": "6",
+        "latitude": 48.1320881,
+        "longitude": 11.5757135
+    },
+    {
+        "id": "1160565499",
+        "name": "Shamrock",
+        "category": "Pub",
+        "street": "Trautenwolfstraße",
+        "houseNumber": "6",
+        "latitude": 48.1576336,
+        "longitude": 11.5861613
+    },
+    {
+        "id": "1165928028",
+        "name": "Delikat Genussmomente am Dorfbach",
+        "category": "Café",
+        "street": "Schmidbauerstraße",
+        "houseNumber": "42",
+        "latitude": 48.1021577,
+        "longitude": 11.6301978
+    },
+    {
+        "id": "1178799519",
+        "name": "Farmer & Lou",
+        "category": "Café",
+        "street": "Breisacher Straße",
+        "houseNumber": "6",
+        "latitude": 48.1299515,
+        "longitude": 11.6027317
+    },
+    {
+        "id": "1189028534",
+        "name": "Bruno's",
+        "category": "Pub",
+        "street": "Westendstraße",
+        "houseNumber": "138",
+        "latitude": 48.1379474,
+        "longitude": 11.5317051
+    },
+    {
+        "id": "1190918919",
+        "name": "Soundcafe",
+        "category": "Café",
+        "street": "Traubestraße",
+        "houseNumber": "7",
+        "latitude": 48.1714773,
+        "longitude": 11.5924256
+    },
+    {
+        "id": "1198391629",
+        "name": "Café Miu",
+        "category": "Café",
+        "street": "Sedanstraße",
+        "houseNumber": "39",
+        "latitude": 48.128832,
+        "longitude": 11.6000323
+    },
+    {
+        "id": "1198447918",
+        "name": "LottiEck",
+        "category": "Café",
+        "street": "Metzstraße",
+        "houseNumber": "37",
+        "latitude": 48.132082,
+        "longitude": 11.6011414
+    },
+    {
+        "id": "1198661440",
+        "name": "Lollo Rosso",
+        "category": "Café",
+        "street": "Wörthstraße",
+        "houseNumber": "11",
+        "latitude": 48.1315139,
+        "longitude": 11.5990483
+    },
+    {
+        "id": "1198732333",
+        "name": "MeetGreek",
+        "category": "Café",
+        "street": "Wörthstraße",
+        "houseNumber": "30",
+        "latitude": 48.1296817,
+        "longitude": 11.6008316
+    },
+    {
+        "id": "1227896836",
+        "name": "Cafe Arnold",
+        "category": "Café",
+        "street": "Barer Straße",
+        "houseNumber": "36",
+        "latitude": 48.1465211,
+        "longitude": 11.570511
+    },
+    {
+        "id": "1242139183",
+        "name": "Balan",
+        "category": "Pub",
+        "street": "Balanstraße",
+        "houseNumber": "21",
+        "latitude": 48.126713,
+        "longitude": 11.5952272
+    },
+    {
+        "id": "1252169051",
+        "name": "Galao",
+        "category": "Café",
+        "street": "Gollierstraße",
+        "houseNumber": "14a",
+        "latitude": 48.1359132,
+        "longitude": 11.5445372
+    },
+    {
+        "id": "1263297334",
+        "name": "Il Gelato Italiano",
+        "category": "Café",
+        "street": "Ostpreußenstraße",
+        "houseNumber": "25",
+        "latitude": 48.1490441,
+        "longitude": 11.6403301
+    },
+    {
+        "id": "1272940938",
+        "name": "Gimbab Café",
+        "category": "Café",
+        "street": "Wasserburger Landstraße",
+        "houseNumber": "196",
+        "latitude": 48.1141144,
+        "longitude": 11.697833
+    },
+    {
+        "id": "1307952967",
+        "name": "Museumscafé",
+        "category": "Café",
+        "street": "Theresienstraße",
+        "houseNumber": "35a",
+        "latitude": 48.1481861,
+        "longitude": 11.5739841
+    },
+    {
+        "id": "1318875111",
+        "name": "Königin 43",
+        "category": "Café",
+        "street": "Königinstraße",
+        "houseNumber": "43",
+        "latitude": 48.1502968,
+        "longitude": 11.5843534,
+        "description": "fehlt in Adressenliste Stadt München, Hausnummer lt. Homepage (https://barer61.de/koenigin43/), Hausnummernschild nicht vorhanden #Adressenabgleich"
+    },
+    {
+        "id": "1330273950",
+        "name": "Le Petit Jardin",
+        "category": "Café",
+        "street": "Gaisbergstraße",
+        "houseNumber": "6",
+        "latitude": 48.134944,
+        "longitude": 11.6086923
+    },
+    {
+        "id": "1334088643",
+        "name": "WunderBar",
+        "category": "Pub",
+        "street": "Kirchenstraße",
+        "houseNumber": "28",
+        "latitude": 48.1335941,
+        "longitude": 11.6019467
+    },
+    {
+        "id": "1343582414",
+        "name": "Bierbatterie",
+        "category": "Pub",
+        "street": "Leopoldstraße",
+        "houseNumber": "118",
+        "latitude": 48.1664602,
+        "longitude": 11.5865452
+    },
+    {
+        "id": "1344736775",
+        "name": "Maelu",
+        "category": "Café",
+        "street": "Theatinerstraße",
+        "houseNumber": "32",
+        "latitude": 48.1410326,
+        "longitude": 11.5767677
+    },
+    {
+        "id": "1346916279",
+        "name": "Camp",
+        "category": "Pub",
+        "street": "Reisingerstraße",
+        "houseNumber": "15",
+        "latitude": 48.1310458,
+        "longitude": 11.5648003
+    },
+    {
+        "id": "1347976611",
+        "name": "Petit Café",
+        "category": "Café",
+        "street": "Marienstraße",
+        "houseNumber": "2",
+        "latitude": 48.136618,
+        "longitude": 11.5806795
+    },
+    {
+        "id": "1349935435",
+        "name": "Cafe Glückskind",
+        "category": "Café",
+        "street": "Seeriederstraße",
+        "houseNumber": "9",
+        "latitude": 48.1348031,
+        "longitude": 11.602599
+    },
+    {
+        "id": "1350394049",
+        "name": "Holzkranich",
+        "category": "Café",
+        "street": "Georgenstraße",
+        "houseNumber": "105",
+        "latitude": 48.1567703,
+        "longitude": 11.5643146,
+        "description": "Bar & Brotzeitküche"
+    },
+    {
+        "id": "1351065179",
+        "name": "Café Teigtaschen Bowls",
+        "category": "Café",
+        "street": "Winterstraße",
+        "houseNumber": "15",
+        "latitude": 48.1157155,
+        "longitude": 11.5706368
+    },
+    {
+        "id": "1357982129",
+        "name": "Brewsli",
+        "category": "Pub",
+        "street": "Taubenstraße",
+        "houseNumber": "2",
+        "latitude": 48.1216225,
+        "longitude": 11.5793167
+    },
+    {
+        "id": "1361799921",
+        "name": "Partenopeo",
+        "category": "Café",
+        "street": "Einsteinstraße",
+        "houseNumber": "103",
+        "latitude": 48.1358095,
+        "longitude": 11.6060688
+    },
+    {
+        "id": "1361815850",
+        "name": "einsnullsieben",
+        "category": "Café",
+        "street": "Einsteinstraße",
+        "houseNumber": "107",
+        "latitude": 48.1358359,
+        "longitude": 11.6063291
+    },
+    {
+        "id": "1380513278",
+        "name": "Mamma Lucia",
+        "category": "Café",
+        "street": "Ohmstraße",
+        "houseNumber": "3",
+        "latitude": 48.1541547,
+        "longitude": 11.5842867,
+        "description": "Cafe, Imbiss"
+    },
+    {
+        "id": "1382537870",
+        "name": "Bäckerei Müller",
+        "category": "Café",
+        "street": "Wolfratshauser Straße",
+        "houseNumber": "215",
+        "latitude": 48.0719857,
+        "longitude": 11.5197873
+    },
+    {
+        "id": "1383106027",
+        "name": "I love Leo",
+        "category": "Café",
+        "street": "Leopoldstraße",
+        "houseNumber": "80",
+        "latitude": 48.1608194,
+        "longitude": 11.5865113
+    },
+    {
+        "id": "1398770956",
+        "name": "Little Odessa",
+        "category": "Pub",
+        "street": "Tumblingerstraße",
+        "houseNumber": "16",
+        "latitude": 48.1270441,
+        "longitude": 11.5595055
+    },
+    {
+        "id": "1399681634",
+        "name": "Eiscafe Galleria",
+        "category": "Café",
+        "street": "Heiglhofstraße",
+        "houseNumber": "6a",
+        "latitude": 48.1145619,
+        "longitude": 11.4783267
+    },
+    {
+        "id": "1406082742",
+        "name": "Th-Café",
+        "category": "Café",
+        "street": "Georgenstraße",
+        "houseNumber": "35",
+        "latitude": 48.1548642,
+        "longitude": 11.5762939
+    },
+    {
+        "id": "1406092552",
+        "name": "Café Höflinger",
+        "category": "Café",
+        "street": "Georgenstraße",
+        "houseNumber": "41",
+        "latitude": 48.1550139,
+        "longitude": 11.5752204
+    },
+    {
+        "id": "1407960454",
+        "name": "Café Mio",
+        "category": "Café",
+        "street": "Lamontstraße",
+        "houseNumber": "22",
+        "latitude": 48.1421498,
+        "longitude": 11.6050202
+    },
+    {
+        "id": "1417060861",
+        "name": "Good",
+        "category": "Café",
+        "street": "Leopoldstraße",
+        "houseNumber": "157",
+        "latitude": 48.1718198,
+        "longitude": 11.5855848
+    },
+    {
+        "id": "1427851002",
+        "name": "Backhaus Cafe",
+        "category": "Café",
+        "street": "Maria-Probst-Straße",
+        "houseNumber": "6",
+        "latitude": 48.1918365,
+        "longitude": 11.5876155
+    },
+    {
+        "id": "1441732624",
+        "name": "Starbucks",
+        "category": "Café",
+        "street": "Ollenhauerstraße",
+        "houseNumber": "6",
+        "latitude": 48.1009314,
+        "longitude": 11.6454745,
+        "description": "Toilette PIN 1324"
+    },
+    {
+        "id": "1471042750",
+        "name": "Zamilapark Bistro",
+        "category": "Café",
+        "street": "Stefan-George-Ring",
+        "houseNumber": "22",
+        "latitude": 48.1428713,
+        "longitude": 11.6491305,
+        "description": "Internationale Küche"
+    },
+    {
+        "id": "1478901295",
+        "name": "cupcakes café Hausbrand",
+        "category": "Café",
+        "street": "Utzschneiderstraße",
+        "houseNumber": "12",
+        "latitude": 48.1336594,
+        "longitude": 11.5758996
+    },
+    {
+        "id": "1492596484",
+        "name": "La Cantinetta di Sergio Bolzan",
+        "category": "Café",
+        "street": "Neumarkter Straße",
+        "houseNumber": "77",
+        "latitude": 48.1321223,
+        "longitude": 11.6264838
+    },
+    {
+        "id": "1508791060",
+        "name": "Eisenrieder",
+        "category": "Café",
+        "street": "Ungererstraße",
+        "houseNumber": "137",
+        "latitude": 48.1747926,
+        "longitude": 11.5984662
+    },
+    {
+        "id": "1567316542",
+        "name": "Stehcafe an der TU",
+        "category": "Café",
+        "street": "Luisenstraße",
+        "houseNumber": "43",
+        "latitude": 48.1489789,
+        "longitude": 11.565699
+    },
+    {
+        "id": "1567828533",
+        "name": "Notting Hill",
+        "category": "Café",
+        "street": "Theresienhöhe",
+        "houseNumber": "12",
+        "latitude": 48.1336455,
+        "longitude": 11.5444415,
+        "description": "Mittags gibt es Salatbowls. Ansonsten gibt es Kaffee, Kuchen, und weiteres. Einiges davon ist vegan."
+    },
+    {
+        "id": "1573753320",
+        "name": "Schall & Rauch",
+        "category": "Café",
+        "street": "Schellingstraße",
+        "houseNumber": "22",
+        "latitude": 48.150016,
+        "longitude": 11.5772222
+    },
+    {
+        "id": "1575080557",
+        "name": "Sonnen Stüberl",
+        "category": "Pub",
+        "street": "Obere Weidenstraße",
+        "houseNumber": "1",
+        "latitude": 48.1182671,
+        "longitude": 11.5705173
+    },
+    {
+        "id": "1581245371",
+        "name": "Sportcafe Dikefali",
+        "category": "Café",
+        "street": "Bergmannstraße",
+        "houseNumber": "24",
+        "latitude": 48.1372186,
+        "longitude": 11.5373606
+    },
+    {
+        "id": "1600591673",
+        "name": "Galerie Stüberl",
+        "category": "Pub",
+        "street": "Knorrstraße",
+        "houseNumber": "170",
+        "latitude": 48.1975669,
+        "longitude": 11.5724479
+    },
+    {
+        "id": "1605298174",
+        "name": "NähWerk",
+        "category": "Café",
+        "street": "Schwanthalerstraße",
+        "houseNumber": "79",
+        "latitude": 48.1373639,
+        "longitude": 11.5539953
+    },
+    {
+        "id": "1609203944",
+        "name": "Etisch",
+        "category": "Café",
+        "street": "Kazmairstraße",
+        "houseNumber": "38",
+        "latitude": 48.1348654,
+        "longitude": 11.5398519,
+        "description": "Vegan eatery and cafe"
+    },
+    {
+        "id": "1611045331",
+        "name": "Infinity",
+        "category": "Pub",
+        "street": "Landsberger Straße",
+        "houseNumber": "133",
+        "latitude": 48.1400438,
+        "longitude": 11.5306387
+    },
+    {
+        "id": "1647739702",
+        "name": "Rubin Cafe",
+        "category": "Pub",
+        "street": "Wenzelstraße",
+        "houseNumber": "2",
+        "latitude": 48.1976237,
+        "longitude": 11.5838154
+    },
+    {
+        "id": "1654273145",
+        "name": "cafe fräulein",
+        "category": "Café",
+        "street": "Frauenstraße",
+        "houseNumber": "11",
+        "latitude": 48.1345282,
+        "longitude": 11.5781722
+    },
+    {
+        "id": "1678439297",
+        "name": "Mohrhof Hofcafé",
+        "category": "Café",
+        "street": "Ottobrunner Straße",
+        "houseNumber": "133",
+        "latitude": 48.10173,
+        "longitude": 11.6279362
+    },
+    {
+        "id": "1701591090",
+        "name": "Café Fausto",
+        "category": "Café",
+        "street": "Birkenleiten",
+        "houseNumber": "43",
+        "latitude": 48.1056668,
+        "longitude": 11.566622
+    },
+    {
+        "id": "1714857571",
+        "name": "Café Stenz",
+        "category": "Café",
+        "street": "Waldfriedhofstraße",
+        "houseNumber": "105",
+        "latitude": 48.1119845,
+        "longitude": 11.5047822
+    },
+    {
+        "id": "1714857609",
+        "name": "Café Fischer",
+        "category": "Café",
+        "street": "Waldfriedhofstraße",
+        "houseNumber": "90",
+        "latitude": 48.1123889,
+        "longitude": 11.5038314
+    },
+    {
+        "id": "1717771414",
+        "name": "Henry hat Hunger",
+        "category": "Café",
+        "street": "Zeppelinstraße",
+        "houseNumber": "27",
+        "latitude": 48.1266558,
+        "longitude": 11.5823513
+    },
+    {
+        "id": "1733465775",
+        "name": "Studentencafé Leo 11",
+        "category": "Café",
+        "street": "Leopoldstraße",
+        "houseNumber": "11",
+        "latitude": 48.1550093,
+        "longitude": 11.5823606
+    },
+    {
+        "id": "1741402186",
+        "name": "No-Limit",
+        "category": "Pub",
+        "street": "Drygalski-Allee",
+        "houseNumber": "117",
+        "latitude": 48.0825365,
+        "longitude": 11.5041752
+    },
+    {
+        "id": "1761262299",
+        "name": "Käthe",
+        "category": "Café",
+        "street": "Gebsattelstraße",
+        "houseNumber": "34",
+        "latitude": 48.1238924,
+        "longitude": 11.5897834,
+        "description": "viel Bio-Angebot, auch laktose- o. glutenfrei!"
+    },
+    {
+        "id": "1765873868",
+        "name": "Pinte",
+        "category": "Pub",
+        "street": "Boschetsrieder Straße",
+        "houseNumber": "79",
+        "latitude": 48.0996236,
+        "longitude": 11.5283536
+    },
+    {
+        "id": "1766416528",
+        "name": "Cafe Rusticale",
+        "category": "Café",
+        "street": "Eversbuschstraße",
+        "houseNumber": "37",
+        "latitude": 48.1811715,
+        "longitude": 11.460977
+    },
+    {
+        "id": "1767282440",
+        "name": "Cafe A.",
+        "category": "Café",
+        "street": "Baierbrunner Straße",
+        "houseNumber": "16",
+        "latitude": 48.0983799,
+        "longitude": 11.5329105
+    },
+    {
+        "id": "1774921837",
+        "name": "Café Nappo",
+        "category": "Café",
+        "street": "Säbener Straße",
+        "houseNumber": "25",
+        "latitude": 48.105527,
+        "longitude": 11.5744403
+    },
+    {
+        "id": "1776488730",
+        "name": "La Donuteria München",
+        "category": "Café",
+        "street": "Kistlerhofstraße",
+        "houseNumber": "111",
+        "latitude": 48.0945317,
+        "longitude": 11.5197752
+    },
+    {
+        "id": "1781709778",
+        "name": "DiNatale",
+        "category": "Café",
+        "street": "Veterinärstraße",
+        "houseNumber": "4",
+        "latitude": 48.1501642,
+        "longitude": 11.5830774
+    },
+    {
+        "id": "1787145076",
+        "name": "Chicco di Caffè",
+        "category": "Café",
+        "street": "Agnes-Pockels-Bogen",
+        "houseNumber": "1",
+        "latitude": 48.1736829,
+        "longitude": 11.5323028
+    },
+    {
+        "id": "1788287345",
+        "name": "Da Battista",
+        "category": "Café",
+        "street": "Boschetsrieder Straße",
+        "houseNumber": "118",
+        "latitude": 48.0992102,
+        "longitude": 11.5191778
+    },
+    {
+        "id": "1788317239",
+        "name": "Das Florentiner Backhaus",
+        "category": "Café",
+        "street": "Isabellastraße",
+        "houseNumber": "49",
+        "latitude": 48.1604124,
+        "longitude": 11.5730417
+    },
+    {
+        "id": "1788320027",
+        "name": "Diatonic Kaffeeladen",
+        "category": "Café",
+        "street": "Hohenzollernstraße",
+        "houseNumber": "48",
+        "latitude": 48.1603821,
+        "longitude": 11.573416
+    },
+    {
+        "id": "1788450149",
+        "name": "Pils pub B-fifty-Two",
+        "category": "Pub",
+        "street": "Boschetsrieder Straße",
+        "houseNumber": "63",
+        "latitude": 48.099697,
+        "longitude": 11.5310164
+    },
+    {
+        "id": "1795365717",
+        "name": "Bistro Lavash Gözleme",
+        "category": "Café",
+        "street": "Goethestraße",
+        "houseNumber": "7a",
+        "latitude": 48.1382351,
+        "longitude": 11.5587798,
+        "description": "Café-Bistro"
+    },
+    {
+        "id": "1802720742",
+        "name": "Gartensalon",
+        "category": "Café",
+        "street": "Türkenstraße",
+        "houseNumber": "90",
+        "latitude": 48.1518664,
+        "longitude": 11.5774976
+    },
+    {
+        "id": "1813633551",
+        "name": "Cafe Mangfall",
+        "category": "Café",
+        "street": "Mangfallplatz",
+        "houseNumber": "9",
+        "latitude": 48.0974641,
+        "longitude": 11.581659
+    },
+    {
+        "id": "1813634335",
+        "name": "Neulinger Brot & Feinbäckerei",
+        "category": "Café",
+        "street": "Volkartstraße",
+        "houseNumber": "11",
+        "latitude": 48.1549705,
+        "longitude": 11.533328
+    },
+    {
+        "id": "1813636917",
+        "name": "Café Gelateria al Teatro",
+        "category": "Café",
+        "street": "Buttermelcherstraße",
+        "houseNumber": "2",
+        "latitude": 48.1328501,
+        "longitude": 11.576308
+    },
+    {
+        "id": "1813637462",
+        "name": "Crêperie Bernard et Bernard",
+        "category": "Café",
+        "street": "Innere Wiener Straße",
+        "houseNumber": "32",
+        "latitude": 48.133745,
+        "longitude": 11.5948617
+    },
+    {
+        "id": "1813638199",
+        "name": "Giesinger Stehausschank",
+        "category": "Pub",
+        "street": "Augustenstraße",
+        "houseNumber": "90",
+        "latitude": 48.1516651,
+        "longitude": 11.5647217
+    },
+    {
+        "id": "1813638477",
+        "name": "Zum Aloisius",
+        "category": "Pub",
+        "street": "Häberlstraße",
+        "houseNumber": "3",
+        "latitude": 48.1286846,
+        "longitude": 11.5585446
+    },
+    {
+        "id": "1813640453",
+        "name": "Cafe Amalien",
+        "category": "Café",
+        "street": "Amalienstraße",
+        "houseNumber": "87",
+        "latitude": 48.1516021,
+        "longitude": 11.579117
+    },
+    {
+        "id": "1813640480",
+        "name": "Pini",
+        "category": "Café",
+        "street": "Klenzestraße",
+        "houseNumber": "45",
+        "latitude": 48.1302686,
+        "longitude": 11.57393
+    },
+    {
+        "id": "1813641124",
+        "name": "Mr. Ben",
+        "category": "Café",
+        "street": "Türkenstraße",
+        "houseNumber": "67",
+        "latitude": 48.1515135,
+        "longitude": 11.576586
+    },
+    {
+        "id": "1813648268",
+        "name": "Suuapinga",
+        "category": "Café",
+        "street": "Blutenburgstraße",
+        "houseNumber": "93",
+        "latitude": 48.1520784,
+        "longitude": 11.5349836
+    },
+    {
+        "id": "1823097248",
+        "name": "Kurfürstenstüberl",
+        "category": "Pub",
+        "street": "Kurfürstenstraße",
+        "houseNumber": "8",
+        "latitude": 48.1542917,
+        "longitude": 11.5763849
+    },
+    {
+        "id": "1828406453",
+        "name": "Intermezzo",
+        "category": "Café",
+        "street": "Am Stadtpark",
+        "houseNumber": "20",
+        "latitude": 48.1418122,
+        "longitude": 11.4516674
+    },
+    {
+        "id": "1834207965",
+        "name": "Caffè Ristretto",
+        "category": "Café",
+        "street": "Kazmairstraße",
+        "houseNumber": "30",
+        "latitude": 48.1347784,
+        "longitude": 11.5413706
+    },
+    {
+        "id": "1834233651",
+        "name": "Simurg",
+        "category": "Café",
+        "street": "Sandtnerstraße",
+        "houseNumber": "5",
+        "latitude": 48.1330457,
+        "longitude": 11.5384243
+    },
+    {
+        "id": "1835212419",
+        "name": "Kosy's",
+        "category": "Café",
+        "street": "Pariser Straße",
+        "houseNumber": "50",
+        "latitude": 48.1291403,
+        "longitude": 11.6014784
+    },
+    {
+        "id": "1835843739",
+        "name": "Loth Café",
+        "category": "Café",
+        "street": "Lothstraße",
+        "houseNumber": "15",
+        "latitude": 48.1541351,
+        "longitude": 11.5531955
+    },
+    {
+        "id": "1840355398",
+        "name": "Schnulli's Bierstüberl",
+        "category": "Pub",
+        "street": "Bunzlauer Straße",
+        "houseNumber": "14",
+        "latitude": 48.1804048,
+        "longitude": 11.5077477
+    },
+    {
+        "id": "1840387243",
+        "name": "Poststüberl",
+        "category": "Pub",
+        "street": "Bunzlauer Straße",
+        "houseNumber": "22",
+        "latitude": 48.1808033,
+        "longitude": 11.5087025
+    },
+    {
+        "id": "1845377596",
+        "name": "Café Riviera",
+        "category": "Café",
+        "street": "Stefan-George-Ring",
+        "houseNumber": "20",
+        "latitude": 48.1428234,
+        "longitude": 11.649571
+    },
+    {
+        "id": "1868950841",
+        "name": "Tagträumer",
+        "category": "Café",
+        "street": "Dreimühlenstraße",
+        "houseNumber": "17",
+        "latitude": 48.121657,
+        "longitude": 11.5608972
+    },
+    {
+        "id": "1871335569",
+        "name": "Mucki & Floyd",
+        "category": "Café",
+        "street": "Ickstattstraße",
+        "houseNumber": "2",
+        "latitude": 48.1298215,
+        "longitude": 11.5704329
+    },
+    {
+        "id": "1871450743",
+        "name": "Giesinger Stehausschank",
+        "category": "Pub",
+        "street": "Müllerstraße",
+        "houseNumber": "51",
+        "latitude": 48.1319845,
+        "longitude": 11.5672961
+    },
+    {
+        "id": "1871455028",
+        "name": "Botanista",
+        "category": "Café",
+        "street": "Pestalozzistraße",
+        "houseNumber": "20",
+        "latitude": 48.1305519,
+        "longitude": 11.5671817
+    },
+    {
+        "id": "1871486641",
+        "name": "Café Bar Loretta",
+        "category": "Café",
+        "street": "Müllerstraße",
+        "houseNumber": "50",
+        "latitude": 48.1316166,
+        "longitude": 11.5680299
+    },
+    {
+        "id": "1906966303",
+        "name": "70er",
+        "category": "Pub",
+        "street": "Tegernseer Landstraße",
+        "houseNumber": "34",
+        "latitude": 48.1177349,
+        "longitude": 11.5820542
+    },
+    {
+        "id": "1944044658",
+        "name": "Eiscafe Crema",
+        "category": "Café",
+        "street": "Herterichstraße",
+        "houseNumber": "101",
+        "latitude": 48.0783096,
+        "longitude": 11.5074088
+    },
+    {
+        "id": "1969694481",
+        "name": "Ladencafé Marais",
+        "category": "Café",
+        "street": "Parkstraße",
+        "houseNumber": "2",
+        "latitude": 48.1377528,
+        "longitude": 11.5437818
+    },
+    {
+        "id": "1973760268",
+        "name": "RAW",
+        "category": "Pub",
+        "street": "Schleißheimer Straße",
+        "houseNumber": "28",
+        "latitude": 48.1495535,
+        "longitude": 11.5596347
+    },
+    {
+        "id": "2015833278",
+        "name": "Kneipe A21",
+        "category": "Pub",
+        "street": "Aberlestraße",
+        "houseNumber": "21",
+        "latitude": 48.1201887,
+        "longitude": 11.5455629
+    },
+    {
+        "id": "2018066448",
+        "name": "Cafe Bistro Central",
+        "category": "Café",
+        "street": "Alpenstraße",
+        "houseNumber": "10",
+        "latitude": 48.1170262,
+        "longitude": 11.5824573
+    },
+    {
+        "id": "2018137182",
+        "name": "Die Kleine Kneipe",
+        "category": "Pub",
+        "street": "Silberhornstraße",
+        "houseNumber": "8",
+        "latitude": 48.1152228,
+        "longitude": 11.5787343
+    },
+    {
+        "id": "2018441423",
+        "name": "Le Petit Café",
+        "category": "Café",
+        "street": "Pilgersheimer Straße",
+        "houseNumber": "8",
+        "latitude": 48.1192804,
+        "longitude": 11.5750246
+    },
+    {
+        "id": "2026139321",
+        "name": "Post&Cafe",
+        "category": "Café",
+        "street": "Josephsburgstraße",
+        "houseNumber": "71",
+        "latitude": 48.1254822,
+        "longitude": 11.6369037
+    },
+    {
+        "id": "2048972656",
+        "name": "Bacio",
+        "category": "Café",
+        "street": "Wolfratshauser Straße",
+        "houseNumber": "153",
+        "latitude": 48.0807316,
+        "longitude": 11.528778
+    },
+    {
+        "id": "2062039159",
+        "name": "Black Bean",
+        "category": "Café",
+        "street": "Pündterplatz",
+        "houseNumber": "1",
+        "latitude": 48.1627991,
+        "longitude": 11.5769536
+    },
+    {
+        "id": "2131545618",
+        "name": "Müller",
+        "category": "Café",
+        "street": "Truderinger Straße",
+        "houseNumber": "261",
+        "latitude": 48.1257696,
+        "longitude": 11.6632318
+    },
+    {
+        "id": "2143172409",
+        "name": "Riva Bar",
+        "category": "Pub",
+        "street": "Tal",
+        "houseNumber": "44",
+        "latitude": 48.135354,
+        "longitude": 11.5810694
+    },
+    {
+        "id": "2178313161",
+        "name": "Bohne & Malz",
+        "category": "Café",
+        "street": "Sonnenstraße",
+        "houseNumber": "11",
+        "latitude": 48.1377635,
+        "longitude": 11.56593
+    },
+    {
+        "id": "2205792696",
+        "name": "Cafe Aran",
+        "category": "Café",
+        "street": "Theatinerstraße",
+        "houseNumber": "12",
+        "latitude": 48.1407853,
+        "longitude": 11.5763529
+    },
+    {
+        "id": "2205792709",
+        "name": "Theatiner 8",
+        "category": "Café",
+        "street": "Theatinerstraße",
+        "houseNumber": "8",
+        "latitude": 48.1398462,
+        "longitude": 11.5755347
+    },
+    {
+        "id": "2281221142",
+        "name": "Coffee Fellows",
+        "category": "Café",
+        "street": "Bayerstraße",
+        "houseNumber": "7",
+        "latitude": 48.1391502,
+        "longitude": 11.5633804
+    },
+    {
+        "id": "2299689274",
+        "name": "Che Follia",
+        "category": "Café",
+        "street": "Truderinger Straße",
+        "houseNumber": "306a",
+        "latitude": 48.121552,
+        "longitude": 11.6704157
+    },
+    {
+        "id": "2325913759",
+        "name": "Panini",
+        "category": "Café",
+        "street": "Franz-Joseph-Straße",
+        "houseNumber": "26",
+        "latitude": 48.1579761,
+        "longitude": 11.5793764
+    },
+    {
+        "id": "2329915482",
+        "name": "laden",
+        "category": "Café",
+        "street": "Türkenstraße",
+        "houseNumber": "37",
+        "latitude": 48.1496783,
+        "longitude": 11.5753981
+    },
+    {
+        "id": "2335069095",
+        "name": "Brez'n Eck",
+        "category": "Café",
+        "street": "Schweigerstraße",
+        "houseNumber": "14",
+        "latitude": 48.1267427,
+        "longitude": 11.5825635
+    },
+    {
+        "id": "2335083096",
+        "name": "Carlotta",
+        "category": "Café",
+        "street": "Holzstraße",
+        "houseNumber": "18",
+        "latitude": 48.1300657,
+        "longitude": 11.5674837
+    },
+    {
+        "id": "2335083230",
+        "name": "München '72",
+        "category": "Pub",
+        "street": "Holzstraße",
+        "houseNumber": "16",
+        "latitude": 48.1301145,
+        "longitude": 11.5676829
+    },
+    {
+        "id": "2335092405",
+        "name": "Conditorei Mische",
+        "category": "Café",
+        "street": "Auenstraße",
+        "houseNumber": "2a",
+        "latitude": 48.1277971,
+        "longitude": 11.5757767
+    },
+    {
+        "id": "2335114176",
+        "name": "Auen-Backshop",
+        "category": "Café",
+        "street": "Auenstraße",
+        "houseNumber": "52",
+        "latitude": 48.1256974,
+        "longitude": 11.5705868
+    },
+    {
+        "id": "2335119827",
+        "name": "Münchner Boulangerie",
+        "category": "Café",
+        "street": "Bauerstraße",
+        "houseNumber": "1",
+        "latitude": 48.1587071,
+        "longitude": 11.5746346
+    },
+    {
+        "id": "2335122648",
+        "name": "Mr. Baker's Coffeehouse",
+        "category": "Café",
+        "street": "Steinstraße",
+        "houseNumber": "12",
+        "latitude": 48.1334379,
+        "longitude": 11.595917
+    },
+    {
+        "id": "2335129587",
+        "name": "Kencho Matcha",
+        "category": "Café",
+        "street": "Schellingstraße",
+        "houseNumber": "15",
+        "latitude": 48.1497945,
+        "longitude": 11.5773003
+    },
+    {
+        "id": "2335172007",
+        "name": "Eis Cafe Italia",
+        "category": "Café",
+        "street": "Ehrengutstraße",
+        "houseNumber": "23",
+        "latitude": 48.1212361,
+        "longitude": 11.5616094
+    },
+    {
+        "id": "2335300018",
+        "name": "Chez Fritz",
+        "category": "Café",
+        "street": "Preysingstraße",
+        "houseNumber": "20",
+        "latitude": 48.1321513,
+        "longitude": 11.5944154
+    },
+    {
+        "id": "2359842583",
+        "name": "Alluna Cake",
+        "category": "Café",
+        "street": "Schwanseestraße",
+        "houseNumber": "21",
+        "latitude": 48.1076555,
+        "longitude": 11.5962346
+    },
+    {
+        "id": "2401588657",
+        "name": "plex",
+        "category": "Café",
+        "street": "Türkenstraße",
+        "houseNumber": "67",
+        "latitude": 48.1514152,
+        "longitude": 11.5765316
+    },
+    {
+        "id": "2401894678",
+        "name": "MOCCASOLA",
+        "category": "Café",
+        "street": "Zielstattstraße",
+        "houseNumber": "9",
+        "latitude": 48.1024394,
+        "longitude": 11.5341381
+    },
+    {
+        "id": "2431272940",
+        "name": "May Cake",
+        "category": "Café",
+        "street": "Naupliastraße",
+        "houseNumber": "6",
+        "latitude": 48.0977888,
+        "longitude": 11.5802017,
+        "description": "Spezialität sind Torten für Hochzeiten, Feiern etc. weshalb Cafe evtl. nicht das optimale ist und nur shop:pastry auch passen würde (wären keine Sitzplätze)"
+    },
+    {
+        "id": "2431281938",
+        "name": "Cucurucu",
+        "category": "Pub",
+        "street": "Elisenstraße",
+        "houseNumber": "5",
+        "latitude": 48.141941,
+        "longitude": 11.5609208
+    },
+    {
+        "id": "2431498613",
+        "name": "Schwarzer Engel",
+        "category": "Pub",
+        "street": "Lindenschmitstraße",
+        "houseNumber": "9",
+        "latitude": 48.1182604,
+        "longitude": 11.5455897
+    },
+    {
+        "id": "2431582873",
+        "name": "letcha organic tea room",
+        "category": "Café",
+        "street": "Herzogstraße",
+        "houseNumber": "1a",
+        "latitude": 48.1618629,
+        "longitude": 11.5855833
+    },
+    {
+        "id": "2487367712",
+        "name": "Casalingo",
+        "category": "Café",
+        "street": "Sebastiansplatz",
+        "houseNumber": "12",
+        "latitude": 48.1343563,
+        "longitude": 11.5733809
+    },
+    {
+        "id": "2493595058",
+        "name": "Vits",
+        "category": "Café",
+        "street": "Rumfordstraße",
+        "houseNumber": "49",
+        "latitude": 48.1338011,
+        "longitude": 11.5821076,
+        "description": "To use wi-fi, ask for the password"
+    },
+    {
+        "id": "2497837304",
+        "name": "Museum für Abgüsse klassischer Bildwerke",
+        "category": "Museum",
+        "street": "Katharina-von-Bora-Straße",
+        "houseNumber": "10",
+        "latitude": 48.1446864,
+        "longitude": 11.5667305
+    },
+    {
+        "id": "2504953885",
+        "name": "Tantra (dauerhaft geschlossen)",
+        "category": "Pub",
+        "street": "Ludwig-Brück-Straße",
+        "houseNumber": "3",
+        "latitude": 48.1485418,
+        "longitude": 11.6499768
+    },
+    {
+        "id": "2505252874",
+        "name": "Cafe Ay-Yildiz",
+        "category": "Café",
+        "street": "Feldmochinger Straße",
+        "houseNumber": "8a",
+        "latitude": 48.1777976,
+        "longitude": 11.5214519
+    },
+    {
+        "id": "2534104640",
+        "name": "Museumscafe",
+        "category": "Café",
+        "street": "Barer Straße",
+        "houseNumber": "27",
+        "latitude": 48.1480827,
+        "longitude": 11.5704606
+    },
+    {
+        "id": "2545320017",
+        "name": "Café Dallmayr",
+        "category": "Café",
+        "street": "Dienerstraße",
+        "houseNumber": "14-15",
+        "latitude": 48.1383202,
+        "longitude": 11.5772737
+    },
+    {
+        "id": "2550215948",
+        "name": "Heidequelle",
+        "category": "Pub",
+        "street": "Dietersheimer Straße",
+        "houseNumber": "17a",
+        "latitude": 48.1792021,
+        "longitude": 11.5992207
+    },
+    {
+        "id": "2623133052",
+        "name": "CappoSecco",
+        "category": "Café",
+        "street": "Stiftsbogen",
+        "houseNumber": "43",
+        "latitude": 48.1197827,
+        "longitude": 11.4918777
+    },
+    {
+        "id": "2631021804",
+        "name": "La Caffettiera",
+        "category": "Café",
+        "street": "Regerstraße",
+        "houseNumber": "5",
+        "latitude": 48.1238278,
+        "longitude": 11.5877334
+    },
+    {
+        "id": "2672666306",
+        "name": "Käfer Deli Markt",
+        "category": "Café",
+        "street": "Frans-Hals-Straße",
+        "houseNumber": "31",
+        "latitude": 48.0773731,
+        "longitude": 11.5198636,
+        "description": "Feinkostladen mit integriertem Cafe"
+    },
+    {
+        "id": "2699948360",
+        "name": "Konditorei Höflinger",
+        "category": "Café",
+        "street": "Dachauer Straße",
+        "houseNumber": "4",
+        "latitude": 48.1418916,
+        "longitude": 11.5606101
+    },
+    {
+        "id": "2701938189",
+        "name": "Erwin von Kreibig Museum",
+        "category": "Museum",
+        "street": "Südliches Schloßrondell",
+        "houseNumber": "1",
+        "latitude": 48.1575169,
+        "longitude": 11.5090158
+    },
+    {
+        "id": "2708539829",
+        "name": "EREMITage Nymphenburg",
+        "category": "Café",
+        "street": "Nymphenburger Straße",
+        "houseNumber": "216",
+        "latitude": 48.158533,
+        "longitude": 11.526973
+    },
+    {
+        "id": "2714971495",
+        "name": "Café Hanoi",
+        "category": "Café",
+        "street": "Partnachplatz",
+        "houseNumber": "9",
+        "latitude": 48.1173412,
+        "longitude": 11.5268459
+    },
+    {
+        "id": "2734075634",
+        "name": "Tanpopo",
+        "category": "Café",
+        "street": "Maillingerstraße",
+        "houseNumber": "6",
+        "latitude": 48.1492081,
+        "longitude": 11.5459041
+    },
+    {
+        "id": "2798929939",
+        "name": "Chocolaterie Beluga",
+        "category": "Café",
+        "street": "Viktualienmarkt",
+        "houseNumber": "6",
+        "latitude": 48.1358132,
+        "longitude": 11.5757709
+    },
+    {
+        "id": "2819574705",
+        "name": "Michi`s Stüberl",
+        "category": "Pub",
+        "street": "Zum Schwabenbächl",
+        "houseNumber": "48d",
+        "latitude": 48.2127966,
+        "longitude": 11.4611056
+    },
+    {
+        "id": "2821267801",
+        "name": "Lollo Schenke",
+        "category": "Pub",
+        "street": "Milchstraße",
+        "houseNumber": "1",
+        "latitude": 48.1310837,
+        "longitude": 11.5945668
+    },
+    {
+        "id": "2836988334",
+        "name": "Nachhoelzer",
+        "category": "Café",
+        "street": "Arcisstraße",
+        "houseNumber": "21",
+        "latitude": 48.1483505,
+        "longitude": 11.5677812
+    },
+    {
+        "id": "2859544446",
+        "name": "Il Chiosco",
+        "category": "Café",
+        "street": "Tegernseer Landstraße",
+        "houseNumber": "9",
+        "latitude": 48.1190333,
+        "longitude": 11.5839789
+    },
+    {
+        "id": "2884314528",
+        "name": "Karotte",
+        "category": "Pub",
+        "street": "Goethestraße",
+        "houseNumber": "36",
+        "latitude": 48.1355152,
+        "longitude": 11.5581507
+    },
+    {
+        "id": "2894519315",
+        "name": "AKA - Aktiv für interKulturellen Austausch e.V.",
+        "category": "Café",
+        "street": "Bad-Schachener-Straße",
+        "houseNumber": "2a",
+        "latitude": 48.1205184,
+        "longitude": 11.6135774
+    },
+    {
+        "id": "2949363929",
+        "name": "The Tribeca Café",
+        "category": "Café",
+        "street": "Klugstraße",
+        "houseNumber": "134",
+        "latitude": 48.1640509,
+        "longitude": 11.5307467
+    },
+    {
+        "id": "2959959996",
+        "name": "Coucou Food Market",
+        "category": "Café",
+        "street": "Sankt-Jakobs-Platz",
+        "houseNumber": "16",
+        "latitude": 48.1343036,
+        "longitude": 11.5724741
+    },
+    {
+        "id": "2962765297",
+        "name": "Galerie-Café Seebauer",
+        "category": "Café",
+        "street": "Ottobrunner Straße",
+        "houseNumber": "61",
+        "latitude": 48.1068741,
+        "longitude": 11.6214153
+    },
+    {
+        "id": "2967993398",
+        "name": "Café Konditorei Tortenparadies",
+        "category": "Café",
+        "street": "Unterhachinger Straße",
+        "houseNumber": "24",
+        "latitude": 48.1000985,
+        "longitude": 11.625771
+    },
+    {
+        "id": "3027984919",
+        "name": "Caffé Da Me",
+        "category": "Café",
+        "street": "Morassistraße",
+        "houseNumber": "26",
+        "latitude": 48.1315744,
+        "longitude": 11.5813749,
+        "description": "Eingang Kohlstraße 11; Spezialitäten der Region Marken (Marche)"
+    },
+    {
+        "id": "3051676297",
+        "name": "Geyerwally",
+        "category": "Pub",
+        "street": "Geyerstraße",
+        "houseNumber": "17",
+        "latitude": 48.1241642,
+        "longitude": 11.5656754
+    },
+    {
+        "id": "3056895934",
+        "name": "Cafe Dante 27",
+        "category": "Café",
+        "street": "Dantestraße",
+        "houseNumber": "27",
+        "latitude": 48.1679963,
+        "longitude": 11.5265566,
+        "description": "ehem. Cafe Arezzo"
+    },
+    {
+        "id": "3072229173",
+        "name": "Backhaus & Café",
+        "category": "Café",
+        "street": "Maria-Eich-Straße",
+        "houseNumber": "71",
+        "latitude": 48.1385536,
+        "longitude": 11.4453001
+    },
+    {
+        "id": "3072246868",
+        "name": "Onkel Kaan's Kiosk",
+        "category": "Café",
+        "street": "Leonrodstraße",
+        "houseNumber": "45",
+        "latitude": 48.1556871,
+        "longitude": 11.5399983
+    },
+    {
+        "id": "3078126715",
+        "name": "Familienbäckerei",
+        "category": "Café",
+        "street": "Tegernseer Landstraße",
+        "houseNumber": "123",
+        "latitude": 48.1128196,
+        "longitude": 11.5770989
+    },
+    {
+        "id": "3101401265",
+        "name": "Man Versus Machine Coffee Roasters",
+        "category": "Café",
+        "street": "Müllerstraße",
+        "houseNumber": "23",
+        "latitude": 48.1309884,
+        "longitude": 11.5711081
+    },
+    {
+        "id": "3147296793",
+        "name": "Vertigo",
+        "category": "Pub",
+        "street": "Blumenstraße",
+        "houseNumber": "43",
+        "latitude": 48.1321869,
+        "longitude": 11.5687449
+    },
+    {
+        "id": "3164582599",
+        "name": "Markt-Stüberl An der Viehwog",
+        "category": "Pub",
+        "street": "Zenettistraße",
+        "houseNumber": "11",
+        "latitude": 48.1229988,
+        "longitude": 11.5563702
+    },
+    {
+        "id": "3188625900",
+        "name": "Lost Weekend",
+        "category": "Café",
+        "street": "Schellingstraße",
+        "houseNumber": "3",
+        "latitude": 48.1491212,
+        "longitude": 11.5796565
+    },
+    {
+        "id": "3189375851",
+        "name": "Schloss Nymphenburg",
+        "category": "Landmark",
+        "street": "Schloß Nymphenburg",
+        "houseNumber": "1",
+        "latitude": 48.1582569,
+        "longitude": 11.5032967
+    },
+    {
+        "id": "3221860167",
+        "name": "Konditorei Schmidhofer",
+        "category": "Café",
+        "street": "Fürstenrieder Straße",
+        "houseNumber": "92",
+        "latitude": 48.1321986,
+        "longitude": 11.5025532
+    },
+    {
+        "id": "3232812698",
+        "name": "Die Kuchenmeisterei",
+        "category": "Café",
+        "street": "Agnes-Bernauer-Straße",
+        "houseNumber": "122",
+        "latitude": 48.1401258,
+        "longitude": 11.4959542
+    },
+    {
+        "id": "3235024979",
+        "name": "Edelweiss",
+        "category": "Café",
+        "street": "Sankt-Martin-Straße",
+        "houseNumber": "9",
+        "latitude": 48.1163819,
+        "longitude": 11.5823846
+    },
+    {
+        "id": "3240816897",
+        "name": "Madame Boulos",
+        "category": "Café",
+        "street": "Herzogstraße",
+        "houseNumber": "84",
+        "latitude": 48.1629107,
+        "longitude": 11.5722799
+    },
+    {
+        "id": "3261293335",
+        "name": "The Alley",
+        "category": "Café",
+        "street": "Altheimer Eck",
+        "houseNumber": "1",
+        "latitude": 48.1372893,
+        "longitude": 11.5711361
+    },
+    {
+        "id": "3263091358",
+        "name": "L'Americano",
+        "category": "Café",
+        "street": "Fraunhoferstraße",
+        "houseNumber": "41",
+        "latitude": 48.1286644,
+        "longitude": 11.5757383
+    },
+    {
+        "id": "3263444111",
+        "name": "Rennsalon",
+        "category": "Pub",
+        "street": "Baldestraße",
+        "houseNumber": "13",
+        "latitude": 48.1247037,
+        "longitude": 11.5669088
+    },
+    {
+        "id": "3303112264",
+        "name": "Stenz",
+        "category": "Café",
+        "street": "Lindwurmstraße",
+        "houseNumber": "122",
+        "latitude": 48.1224219,
+        "longitude": 11.5441789
+    },
+    {
+        "id": "3324886666",
+        "name": "Café Franca",
+        "category": "Café",
+        "street": "Hiltenspergerstraße",
+        "houseNumber": "24",
+        "latitude": 48.1586328,
+        "longitude": 11.5666049
+    },
+    {
+        "id": "3325072061",
+        "name": "Mary’s Coffee Club",
+        "category": "Café",
+        "street": "Türkenstraße",
+        "houseNumber": "86a",
+        "latitude": 48.1517428,
+        "longitude": 11.5778512
+    },
+    {
+        "id": "3338179929",
+        "name": "A - Die Tagesbar",
+        "category": "Café",
+        "street": "Grünwalder Straße",
+        "houseNumber": "248",
+        "latitude": 48.091483,
+        "longitude": 11.5611249
+    },
+    {
+        "id": "3342347110",
+        "name": "Mellow Cafe & Bar",
+        "category": "Café",
+        "street": "Dachauer Straße",
+        "houseNumber": "159",
+        "latitude": 48.1545874,
+        "longitude": 11.5528087
+    },
+    {
+        "id": "3381659381",
+        "name": "Solino Caffé",
+        "category": "Café",
+        "street": "Falkenstraße",
+        "houseNumber": "17",
+        "latitude": 48.1226204,
+        "longitude": 11.579716
+    },
+    {
+        "id": "3389470863",
+        "name": "Backspielhaus",
+        "category": "Café",
+        "street": "Mauerkircherstraße",
+        "houseNumber": "2",
+        "latitude": 48.148927,
+        "longitude": 11.6001101
+    },
+    {
+        "id": "3451806164",
+        "name": "Tante Emma",
+        "category": "Café",
+        "street": "Destouchesstraße",
+        "houseNumber": "63",
+        "latitude": 48.1644223,
+        "longitude": 11.5741678
+    },
+    {
+        "id": "3455662793",
+        "name": "il Gelato italiano",
+        "category": "Café",
+        "street": "Guardinistraße",
+        "houseNumber": "4",
+        "latitude": 48.1164491,
+        "longitude": 11.50167
+    },
+    {
+        "id": "3498934683",
+        "name": "Café Chance",
+        "category": "Café",
+        "street": "Liebigstraße",
+        "houseNumber": "26",
+        "latitude": 48.1405117,
+        "longitude": 11.5924326
+    },
+    {
+        "id": "3541726874",
+        "name": "Sip And Dip",
+        "category": "Café",
+        "street": "Damenstiftstraße",
+        "houseNumber": "2",
+        "latitude": 48.1374471,
+        "longitude": 11.5688761
+    },
+    {
+        "id": "3556567925",
+        "name": "Neulinger Brot & Feinbäckerei",
+        "category": "Café",
+        "street": "Volkartstraße",
+        "houseNumber": "48",
+        "latitude": 48.1569432,
+        "longitude": 11.539088
+    },
+    {
+        "id": "3559091468",
+        "name": "Backshop Weiß-Blau",
+        "category": "Café",
+        "street": "Heimeranplatz",
+        "houseNumber": "5",
+        "latitude": 48.1332516,
+        "longitude": 11.5340835
+    },
+    {
+        "id": "3574872797",
+        "name": "Katzentempel",
+        "category": "Café",
+        "street": "Türkenstraße",
+        "houseNumber": "29",
+        "latitude": 48.1491267,
+        "longitude": 11.5750212
+    },
+    {
+        "id": "3661907645",
+        "name": "Emmi's Glockenbach",
+        "category": "Café",
+        "street": "Buttermelcherstraße",
+        "houseNumber": "11-15",
+        "latitude": 48.1326552,
+        "longitude": 11.5789107
+    },
+    {
+        "id": "3709346493",
+        "name": "Hide-Out 2",
+        "category": "Pub",
+        "street": "Volkartstraße",
+        "houseNumber": "22",
+        "latitude": 48.1555238,
+        "longitude": 11.534421
+    },
+    {
+        "id": "3721458926",
+        "name": "Ooh Baby",
+        "category": "Café",
+        "street": "Rumfordstraße",
+        "houseNumber": "39",
+        "latitude": 48.1340047,
+        "longitude": 11.58037
+    },
+    {
+        "id": "3722731519",
+        "name": "Benvido",
+        "category": "Café",
+        "street": "Franz-Joseph-Straße",
+        "houseNumber": "30",
+        "latitude": 48.1579764,
+        "longitude": 11.5786787
+    },
+    {
+        "id": "3730777509",
+        "name": "Cafe Bar Karl",
+        "category": "Café",
+        "street": "Freisinger Landstraße",
+        "houseNumber": "84",
+        "latitude": 48.1994378,
+        "longitude": 11.6269295
+    },
+    {
+        "id": "3749217951",
+        "name": "Aumüllers Brotfabrik Obersendling",
+        "category": "Café",
+        "street": "Kistlerhofstraße",
+        "houseNumber": "70",
+        "latitude": 48.0955288,
+        "longitude": 11.5243995
+    },
+    {
+        "id": "3766190822",
+        "name": "Caffè Leone",
+        "category": "Café",
+        "street": "Augustenstraße",
+        "houseNumber": "25",
+        "latitude": 48.1472178,
+        "longitude": 11.5614673
+    },
+    {
+        "id": "3790674997",
+        "name": "Cafe Herrmann",
+        "category": "Café",
+        "street": "Paul-Heyse-Straße",
+        "houseNumber": "14",
+        "latitude": 48.1371651,
+        "longitude": 11.5556896
+    },
+    {
+        "id": "3795812388",
+        "name": "FIKA Ladencafé",
+        "category": "Café",
+        "street": "Westendstraße",
+        "houseNumber": "87",
+        "latitude": 48.1381291,
+        "longitude": 11.5410578
+    },
+    {
+        "id": "3808915090",
+        "name": "BAR ELF",
+        "category": "Café",
+        "street": "Tal",
+        "houseNumber": "11",
+        "latitude": 48.1363496,
+        "longitude": 11.578707
+    },
+    {
+        "id": "3817959193",
+        "name": "Cafe Bar Halligalli",
+        "category": "Pub",
+        "street": "Moosacher Straße",
+        "houseNumber": "17",
+        "latitude": 48.1866952,
+        "longitude": 11.5626279
+    },
+    {
+        "id": "3825378059",
+        "name": "FC Bayern Museum",
+        "category": "Museum",
+        "street": "Franz-Beckenbauer-Platz",
+        "houseNumber": "5",
+        "latitude": 48.2198752,
+        "longitude": 11.6246429,
+        "description": "Eingang über Ebene 2"
+    },
+    {
+        "id": "3828072057",
+        "name": "Puro Cioccolato",
+        "category": "Café",
+        "street": "Volkartstraße",
+        "houseNumber": "44",
+        "latitude": 48.1567671,
+        "longitude": 11.5387253
+    },
+    {
+        "id": "3838023407",
+        "name": "Trakya",
+        "category": "Pub",
+        "street": "Parkstraße",
+        "houseNumber": "25",
+        "latitude": 48.1357678,
+        "longitude": 11.5443727
+    },
+    {
+        "id": "3849682157",
+        "name": "Calima - Specialty Coffee",
+        "category": "Café",
+        "street": "Nestroystraße",
+        "houseNumber": "2",
+        "latitude": 48.1217404,
+        "longitude": 11.5347893
+    },
+    {
+        "id": "3869464080",
+        "name": "Eataly",
+        "category": "Café",
+        "street": "Viktualienmarkt",
+        "houseNumber": "15",
+        "latitude": 48.1342319,
+        "longitude": 11.5742195
+    },
+    {
+        "id": "3888314996",
+        "name": "Barry's Boazn",
+        "category": "Pub",
+        "street": "Parkstraße",
+        "houseNumber": "25",
+        "latitude": 48.1356659,
+        "longitude": 11.5442912
+    },
+    {
+        "id": "3888352285",
+        "name": "Cafe Lotti",
+        "category": "Café",
+        "street": "Schleißheimer Straße",
+        "houseNumber": "13",
+        "latitude": 48.1496384,
+        "longitude": 11.5594619
+    },
+    {
+        "id": "3893571128",
+        "name": "Dubliner Irish Pub",
+        "category": "Pub",
+        "street": "Platzl",
+        "houseNumber": "2",
+        "latitude": 48.1380144,
+        "longitude": 11.5798578
+    },
+    {
+        "id": "3893571156",
+        "name": "Pusser's",
+        "category": "Pub",
+        "street": "Falkenturmstraße",
+        "houseNumber": "9",
+        "latitude": 48.1385557,
+        "longitude": 11.5804018
+    },
+    {
+        "id": "3900500865",
+        "name": "Bei Claus",
+        "category": "Pub",
+        "street": "Weitlstraße",
+        "houseNumber": "115",
+        "latitude": 48.2079003,
+        "longitude": 11.5516866
+    },
+    {
+        "id": "3912826070",
+        "name": "Two in One",
+        "category": "Café",
+        "street": "Pündterplatz",
+        "houseNumber": "8",
+        "latitude": 48.1636105,
+        "longitude": 11.5776222,
+        "description": "Neben Kaffee und selbstgemachten Kuchen warten Blumen und Wohnaccessoires auf Dich."
+    },
+    {
+        "id": "3927438583",
+        "name": "Yildiz",
+        "category": "Pub",
+        "street": "Tegernseer Landstraße",
+        "houseNumber": "92",
+        "latitude": 48.114377,
+        "longitude": 11.578711
+    },
+    {
+        "id": "4100745418",
+        "name": "Pfefferminza",
+        "category": "Café",
+        "street": "Soyerhofstraße",
+        "houseNumber": "28",
+        "latitude": 48.1005894,
+        "longitude": 11.581554
+    },
+    {
+        "id": "4174465290",
+        "name": "Amandines et Chocolats",
+        "category": "Café",
+        "street": "Seybothstraße",
+        "houseNumber": "52",
+        "latitude": 48.0885774,
+        "longitude": 11.5592886
+    },
+    {
+        "id": "4217428292",
+        "name": "Segafredo",
+        "category": "Café",
+        "street": "Residenzstraße",
+        "houseNumber": "21",
+        "latitude": 48.140671,
+        "longitude": 11.577149
+    },
+    {
+        "id": "4217510193",
+        "name": "Ausstellung Münchner Kaiserburg",
+        "category": "Museum",
+        "street": "Alter Hof",
+        "houseNumber": "1",
+        "latitude": 48.1379753,
+        "longitude": 11.5781484
+    },
+    {
+        "id": "4217575642",
+        "name": "Coffee Fellows",
+        "category": "Café",
+        "street": "Schillerstraße",
+        "houseNumber": "17",
+        "latitude": 48.1372795,
+        "longitude": 11.5611616
+    },
+    {
+        "id": "4217579499",
+        "name": "Tante Emma",
+        "category": "Café",
+        "street": "Augustenstraße",
+        "houseNumber": "52",
+        "latitude": 48.148166,
+        "longitude": 11.56247
+    },
+    {
+        "id": "4232919324",
+        "name": "Kreutzkamm",
+        "category": "Café",
+        "street": "Pacellistraße",
+        "houseNumber": "5",
+        "latitude": 48.1406672,
+        "longitude": 11.5693884
+    },
+    {
+        "id": "4243416802",
+        "name": "Café Berta",
+        "category": "Café",
+        "street": "Haimhauserstraße",
+        "houseNumber": "11",
+        "latitude": 48.162443,
+        "longitude": 11.5894119
+    },
+    {
+        "id": "4268746807",
+        "name": "DomagKasino - Quartiersladen",
+        "category": "Café",
+        "street": "Fritz-Winter-Straße",
+        "houseNumber": "3",
+        "latitude": 48.1841761,
+        "longitude": 11.5971182
+    },
+    {
+        "id": "4271686849",
+        "name": "H. Erbshäuser Konditorei Cafe",
+        "category": "Café",
+        "street": "Glückstraße",
+        "houseNumber": "1",
+        "latitude": 48.1447072,
+        "longitude": 11.576958
+    },
+    {
+        "id": "4311689762",
+        "name": "Höflinger",
+        "category": "Café",
+        "street": "Theresienstraße",
+        "houseNumber": "63",
+        "latitude": 48.1510334,
+        "longitude": 11.5639356
+    },
+    {
+        "id": "4318767535",
+        "name": "Classic Café",
+        "category": "Café",
+        "street": "Moosacher Straße",
+        "houseNumber": "66",
+        "latitude": 48.1863204,
+        "longitude": 11.5501988
+    },
+    {
+        "id": "4320728707",
+        "name": "GUNDELINDE Feinkost",
+        "category": "Café",
+        "street": "Gundelindenstraße",
+        "houseNumber": "11",
+        "latitude": 48.1682619,
+        "longitude": 11.5958444
+    },
+    {
+        "id": "4348284358",
+        "name": "Salt & Sugar",
+        "category": "Café",
+        "street": "Tegernseer Landstraße",
+        "houseNumber": "91",
+        "latitude": 48.1139893,
+        "longitude": 11.5786283
+    },
+    {
+        "id": "4379076192",
+        "name": "Kitchen 2 Soul",
+        "category": "Café",
+        "street": "Schlörstraße",
+        "houseNumber": "4",
+        "latitude": 48.1502525,
+        "longitude": 11.5361094
+    },
+    {
+        "id": "4381075400",
+        "name": "California Bean",
+        "category": "Café",
+        "street": "Dachauer Straße",
+        "houseNumber": "12",
+        "latitude": 48.142829,
+        "longitude": 11.560334
+    },
+    {
+        "id": "4394675789",
+        "name": "Baci Baci",
+        "category": "Café",
+        "street": "Georgenstraße",
+        "houseNumber": "103",
+        "latitude": 48.1567412,
+        "longitude": 11.5646903
+    },
+    {
+        "id": "4432887469",
+        "name": "BoboQ",
+        "category": "Café",
+        "street": "Karlsplatz",
+        "houseNumber": "21",
+        "latitude": 48.1387328,
+        "longitude": 11.5647445
+    },
+    {
+        "id": "4439205024",
+        "name": "Sofa so good",
+        "category": "Café",
+        "street": "Ossingerstraße",
+        "houseNumber": "4",
+        "latitude": 48.1203561,
+        "longitude": 11.5014837
+    },
+    {
+        "id": "4444530377",
+        "name": "Café Blá",
+        "category": "Café",
+        "street": "Lilienstraße",
+        "houseNumber": "34",
+        "latitude": 48.1293214,
+        "longitude": 11.5863166
+    },
+    {
+        "id": "4450740123",
+        "name": "De \"KLOANE KNEIP\"N Bei GISI",
+        "category": "Pub",
+        "street": "Heimeranstraße",
+        "houseNumber": "63",
+        "latitude": 48.1335294,
+        "longitude": 11.5348587
+    },
+    {
+        "id": "4450785475",
+        "name": "Toni's Bar",
+        "category": "Pub",
+        "street": "Heimeranplatz",
+        "houseNumber": "3",
+        "latitude": 48.1334187,
+        "longitude": 11.5343159
+    },
+    {
+        "id": "4452947672",
+        "name": "Daily Matcha",
+        "category": "Café",
+        "street": "Augustenstraße",
+        "houseNumber": "5",
+        "latitude": 48.1454328,
+        "longitude": 11.5603596
+    },
+    {
+        "id": "4462456589",
+        "name": "Goethe Pub",
+        "category": "Pub",
+        "street": "Goethestraße",
+        "houseNumber": "10",
+        "latitude": 48.1382102,
+        "longitude": 11.5583917
+    },
+    {
+        "id": "4466373449",
+        "name": "Palmi",
+        "category": "Café",
+        "street": "Königinstraße",
+        "houseNumber": "37",
+        "latitude": 48.1499582,
+        "longitude": 11.5841089,
+        "description": "Café & Concept Store"
+    },
+    {
+        "id": "4466557160",
+        "name": "Deli Star",
+        "category": "Café",
+        "street": "Kaulbachstraße",
+        "houseNumber": "41",
+        "latitude": 48.149966,
+        "longitude": 11.5838552
+    },
+    {
+        "id": "4482050691",
+        "name": "Mauerer",
+        "category": "Café",
+        "street": "Schillerstraße",
+        "houseNumber": "32",
+        "latitude": 48.1362188,
+        "longitude": 11.5607305
+    },
+    {
+        "id": "4510514141",
+        "name": "Café Woerner's",
+        "category": "Café",
+        "street": "Koppstraße",
+        "houseNumber": "19",
+        "latitude": 48.0937008,
+        "longitude": 11.5345459
+    },
+    {
+        "id": "4517893003",
+        "name": "Lisa Café & Bar",
+        "category": "Café",
+        "street": "Lindwurmstraße",
+        "houseNumber": "79",
+        "latitude": 48.1294917,
+        "longitude": 11.5590924
+    },
+    {
+        "id": "4532822621",
+        "name": "UP Coffee Matcha Sandwich",
+        "category": "Café",
+        "street": "Adalbertstraße",
+        "houseNumber": "12",
+        "latitude": 48.1517728,
+        "longitude": 11.580462
+    },
+    {
+        "id": "4532822625",
+        "name": "Billy’s",
+        "category": "Café",
+        "street": "Adalbertstraße",
+        "houseNumber": "6",
+        "latitude": 48.1515986,
+        "longitude": 11.5810564,
+        "description": "Cafe und Kiosk in einem"
+    },
+    {
+        "id": "4561736350",
+        "name": "Brown's Tea Bar",
+        "category": "Café",
+        "street": "Türkenstraße",
+        "houseNumber": "60",
+        "latitude": 48.149849,
+        "longitude": 11.5758417
+    },
+    {
+        "id": "4562672590",
+        "name": "Isareck Stüberl",
+        "category": "Pub",
+        "street": "Dornbergstraße",
+        "houseNumber": "17",
+        "latitude": 48.1286311,
+        "longitude": 11.6178918
+    },
+    {
+        "id": "4563515522",
+        "name": "S21",
+        "category": "Pub",
+        "street": "Schönstraße",
+        "houseNumber": "21",
+        "latitude": 48.109914,
+        "longitude": 11.5672234
+    },
+    {
+        "id": "4696054799",
+        "name": "Rosi",
+        "category": "Café",
+        "street": "Rosenheimer Straße",
+        "houseNumber": "2",
+        "latitude": 48.131349,
+        "longitude": 11.588032
+    },
+    {
+        "id": "4706174301",
+        "name": "LAX Eatery",
+        "category": "Café",
+        "street": "Neureutherstraße",
+        "houseNumber": "1",
+        "latitude": 48.1539509,
+        "longitude": 11.5749832
+    },
+    {
+        "id": "4741904112",
+        "name": "Mütterzentrum-Café",
+        "category": "Café",
+        "street": "Brudermühlstraße",
+        "houseNumber": "42",
+        "latitude": 48.112156,
+        "longitude": 11.5467328
+    },
+    {
+        "id": "4770264871",
+        "name": "Brotmanufaktur Schmidt",
+        "category": "Café",
+        "street": "Neumarkter Straße",
+        "houseNumber": "47",
+        "latitude": 48.1326013,
+        "longitude": 11.6226016
+    },
+    {
+        "id": "4784794584",
+        "name": "Morso Caffetteria",
+        "category": "Café",
+        "street": "Nordendstraße",
+        "houseNumber": "17",
+        "latitude": 48.154704,
+        "longitude": 11.5752745
+    },
+    {
+        "id": "4814368393",
+        "name": "Coffee Fellows",
+        "category": "Café",
+        "street": "Clarita-Bernhard-Straße",
+        "houseNumber": "8",
+        "latitude": 48.1389268,
+        "longitude": 11.4113738
+    },
+    {
+        "id": "4816391821",
+        "name": "Mira",
+        "category": "Café",
+        "street": "Heimeranstraße",
+        "houseNumber": "32",
+        "latitude": 48.1339685,
+        "longitude": 11.5405863
+    },
+    {
+        "id": "4826906689",
+        "name": "Café Scheidplatz",
+        "category": "Café",
+        "street": "Belgradstraße",
+        "houseNumber": "104",
+        "latitude": 48.1714708,
+        "longitude": 11.5737631
+    },
+    {
+        "id": "4867705022",
+        "name": "Daddy Longlegs",
+        "category": "Café",
+        "street": "Barer Straße",
+        "houseNumber": "42",
+        "latitude": 48.1491685,
+        "longitude": 11.5722448
+    },
+    {
+        "id": "4924116022",
+        "name": "Adler",
+        "category": "Pub",
+        "street": "Ganghoferstraße",
+        "houseNumber": "86b",
+        "latitude": 48.1274535,
+        "longitude": 11.5387316
+    },
+    {
+        "id": "4946017125",
+        "name": "Crème",
+        "category": "Café",
+        "street": "Reichenbachstraße",
+        "houseNumber": "24",
+        "latitude": 48.1300629,
+        "longitude": 11.5756569
+    },
+    {
+        "id": "4948655021",
+        "name": "Alps Coffee - Coffee Shop - Espresso Bar",
+        "category": "Café",
+        "street": "Pickelstraße",
+        "houseNumber": "4",
+        "latitude": 48.1688736,
+        "longitude": 11.5349934
+    },
+    {
+        "id": "4954434711",
+        "name": "Stabi Café",
+        "category": "Café",
+        "street": "Ludwigstraße",
+        "houseNumber": "16",
+        "latitude": 48.1473263,
+        "longitude": 11.5810229
+    },
+    {
+        "id": "4986526492",
+        "name": "Rackls Backstubn",
+        "category": "Café",
+        "street": "Haushamer Straße",
+        "houseNumber": "2",
+        "latitude": 48.0970454,
+        "longitude": 11.5813205
+    },
+    {
+        "id": "4987058802",
+        "name": "Moccas 50",
+        "category": "Pub",
+        "street": "Dachauer Straße",
+        "houseNumber": "258",
+        "latitude": 48.1796156,
+        "longitude": 11.5146731
+    },
+    {
+        "id": "5056929318",
+        "name": "The Colombian Coffee Bar",
+        "category": "Café",
+        "street": "Reisingerstraße",
+        "houseNumber": "3",
+        "latitude": 48.1314065,
+        "longitude": 11.5635715
+    },
+    {
+        "id": "5067269322",
+        "name": "Coffee Twins",
+        "category": "Café",
+        "street": "Ehrengutstraße",
+        "houseNumber": "18",
+        "latitude": 48.1210915,
+        "longitude": 11.5607481
+    },
+    {
+        "id": "5072190758",
+        "name": "Beverly Kills Bar",
+        "category": "Pub",
+        "street": "Müllerstraße",
+        "houseNumber": "43",
+        "latitude": 48.131286,
+        "longitude": 11.5683346
+    },
+    {
+        "id": "5116873733",
+        "name": "Vogelmaier Kaffeerösterei",
+        "category": "Café",
+        "street": "Einsteinstraße",
+        "houseNumber": "125",
+        "latitude": 48.1363323,
+        "longitude": 11.6084983
+    },
+    {
+        "id": "5126854087",
+        "name": "ChocoLab",
+        "category": "Café",
+        "street": "Baldestraße",
+        "houseNumber": "21",
+        "latitude": 48.1239658,
+        "longitude": 11.5671346
+    },
+    {
+        "id": "5134816574",
+        "name": "Café Spatzennest",
+        "category": "Café",
+        "street": "Auerfeldstraße",
+        "houseNumber": "15",
+        "latitude": 48.1236568,
+        "longitude": 11.5936928
+    },
+    {
+        "id": "5155384192",
+        "name": "Nasch Kaffee",
+        "category": "Café",
+        "street": "Fritz-Winter-Straße",
+        "houseNumber": "3",
+        "latitude": 48.1840529,
+        "longitude": 11.5971293
+    },
+    {
+        "id": "5176729718",
+        "name": "Ziegler",
+        "category": "Café",
+        "street": "Petra-Kelly-Straße",
+        "houseNumber": "1",
+        "latitude": 48.1617692,
+        "longitude": 11.5567213,
+        "description": "Bäckerei Konditorei Cafe"
+    },
+    {
+        "id": "5180345746",
+        "name": "Horn",
+        "category": "Café",
+        "street": "Königsseestraße",
+        "houseNumber": "13",
+        "latitude": 48.1168045,
+        "longitude": 11.6731721
+    },
+    {
+        "id": "5223300524",
+        "name": "Staatliches Museum Ägyptischer Kunst",
+        "category": "Museum",
+        "street": "Gabelsbergerstraße",
+        "houseNumber": "35",
+        "latitude": 48.1469883,
+        "longitude": 11.5682823,
+        "description": "seit Juni 2013 hier (vorher in der Residenz)"
+    },
+    {
+        "id": "5252240016",
+        "name": "Rackls Backstubn",
+        "category": "Café",
+        "street": "Herterichstraße",
+        "houseNumber": "97",
+        "latitude": 48.0781739,
+        "longitude": 11.5080895
+    },
+    {
+        "id": "5281938163",
+        "name": "Bellevue di Monaco",
+        "category": "Café",
+        "street": "Müllerstraße",
+        "houseNumber": "6",
+        "latitude": 48.1331472,
+        "longitude": 11.5742954
+    },
+    {
+        "id": "5394121416",
+        "name": "Yasemin Café & Bäckerei",
+        "category": "Café",
+        "street": "Untersbergstraße",
+        "houseNumber": "8",
+        "latitude": 48.114258,
+        "longitude": 11.5880122
+    },
+    {
+        "id": "5405021769",
+        "name": "Pinocchio Bella Italia",
+        "category": "Café",
+        "street": "Moosacher Straße",
+        "houseNumber": "15",
+        "latitude": 48.1867531,
+        "longitude": 11.5628457
+    },
+    {
+        "id": "5418190337",
+        "name": "Palais Leuchtenberg",
+        "category": "Landmark",
+        "street": "Odeonsplatz",
+        "houseNumber": "4",
+        "latitude": 48.1440989,
+        "longitude": 11.5772225
+    },
+    {
+        "id": "5418220511",
+        "name": "Alter Hof",
+        "category": "Landmark",
+        "street": "Alter Hof",
+        "houseNumber": "3",
+        "latitude": 48.1382036,
+        "longitude": 11.5780147,
+        "description": "Älteste Münchner Residenz der Wittelsbacher (seit Mitte 13. Jahrhundert). Burgstock (Südflügel) samt Turm und Erker spätgotisch (um 1460/70), auf älterer Grundlage; Zwingerstock (Westflügel) im Kern 14. Jahrhundert; an beiden erneuerte Fassadenmalerei"
+    },
+    {
+        "id": "5421394793",
+        "name": "Café Josefina",
+        "category": "Café",
+        "street": "Augustenstraße",
+        "houseNumber": "113",
+        "latitude": 48.1541832,
+        "longitude": 11.5660259
+    },
+    {
+        "id": "5427398483",
+        "name": "Clemens",
+        "category": "Café",
+        "street": "Clemensstraße",
+        "houseNumber": "84",
+        "latitude": 48.1639409,
+        "longitude": 11.5715534,
+        "description": "Kaffee, Kuchen, Frühstück, Dessert, Waffeln, Frische Säfte und hausgemachte Getränke"
+    },
+    {
+        "id": "5478645429",
+        "name": "Café Erika",
+        "category": "Café",
+        "street": "Senserstraße",
+        "houseNumber": "7",
+        "latitude": 48.1228997,
+        "longitude": 11.5474016
+    },
+    {
+        "id": "5512457574",
+        "name": "tagescafé",
+        "category": "Café",
+        "street": "Hohenzollernstraße",
+        "houseNumber": "41",
+        "latitude": 48.1600917,
+        "longitude": 11.5770363,
+        "description": "Cafe, Frühstück, Mittagstisch, Kuchen und Backwaren"
+    },
+    {
+        "id": "5578199087",
+        "name": "Ciao Amore",
+        "category": "Café",
+        "street": "Schleißheimer Straße",
+        "houseNumber": "96",
+        "latitude": 48.1555547,
+        "longitude": 11.5618172
+    },
+    {
+        "id": "5583057607",
+        "name": "Cafe 23",
+        "category": "Café",
+        "street": "Hermann-Lingg-Straße",
+        "houseNumber": "14",
+        "latitude": 48.1376927,
+        "longitude": 11.551441
+    },
+    {
+        "id": "5590323199",
+        "name": "Maex No.41",
+        "category": "Café",
+        "street": "Amalienstraße",
+        "houseNumber": "41",
+        "latitude": 48.1487362,
+        "longitude": 11.5772413
+    },
+    {
+        "id": "5607919122",
+        "name": "A Little lost",
+        "category": "Café",
+        "street": "Lämmerstraße",
+        "houseNumber": "6",
+        "latitude": 48.1421862,
+        "longitude": 11.558867
+    },
+    {
+        "id": "5609602189",
+        "name": "Onkel Harry",
+        "category": "Café",
+        "street": "Planegger Straße",
+        "houseNumber": "15",
+        "latitude": 48.144915,
+        "longitude": 11.4587808,
+        "description": "Markt,Café, Bistro"
+    },
+    {
+        "id": "5609667645",
+        "name": "Nuvola",
+        "category": "Café",
+        "street": "Hirschbergstraße",
+        "houseNumber": "34",
+        "latitude": 48.1484004,
+        "longitude": 11.5307989
+    },
+    {
+        "id": "5705050304",
+        "name": "Neulinger Brot & Feinbäckerei",
+        "category": "Café",
+        "street": "Gotzinger Straße",
+        "houseNumber": "48",
+        "latitude": 48.1191801,
+        "longitude": 11.5503074
+    },
+    {
+        "id": "5720010326",
+        "name": "Augustiner Bierhalle",
+        "category": "Pub",
+        "street": "Neuhauser Straße",
+        "houseNumber": "27",
+        "latitude": 48.1384215,
+        "longitude": 11.568918
+    },
+    {
+        "id": "5745536622",
+        "name": "Coffee Lulu",
+        "category": "Café",
+        "street": "Belgradstraße",
+        "houseNumber": "9",
+        "latitude": 48.1613451,
+        "longitude": 11.574686
+    },
+    {
+        "id": "5768780958",
+        "name": "Baresta",
+        "category": "Café",
+        "street": "Augustenstraße",
+        "houseNumber": "43",
+        "latitude": 48.1485493,
+        "longitude": 11.5619682
+    },
+    {
+        "id": "5768799990",
+        "name": "Cafe Jasmin",
+        "category": "Café",
+        "street": "Steinheilstraße",
+        "houseNumber": "20",
+        "latitude": 48.1500197,
+        "longitude": 11.5637198
+    },
+    {
+        "id": "5768852494",
+        "name": "DiNatale",
+        "category": "Café",
+        "street": "Amalienstraße",
+        "houseNumber": "71",
+        "latitude": 48.1505554,
+        "longitude": 11.578435
+    },
+    {
+        "id": "5768852497",
+        "name": "beim.hauser",
+        "category": "Café",
+        "street": "Schellingstraße",
+        "houseNumber": "17",
+        "latitude": 48.1498647,
+        "longitude": 11.5770772
+    },
+    {
+        "id": "5776830791",
+        "name": "Kreillies - Breakfast & Lunch",
+        "category": "Café",
+        "street": "Kreillerstraße",
+        "houseNumber": "103",
+        "latitude": 48.1261553,
+        "longitude": 11.6458528
+    },
+    {
+        "id": "5782281594",
+        "name": "San Lucas Kaffeewirtschaft",
+        "category": "Café",
+        "street": "Augustenstraße",
+        "houseNumber": "113",
+        "latitude": 48.1540672,
+        "longitude": 11.5659503
+    },
+    {
+        "id": "5826861106",
+        "name": "Café Exponat Deutsches Museum",
+        "category": "Café",
+        "street": "Museumsinsel",
+        "houseNumber": "1",
+        "latitude": 48.1304654,
+        "longitude": 11.5836265
+    },
+    {
+        "id": "5868109088",
+        "name": "Zenetti",
+        "category": "Pub",
+        "street": "Zenettistraße",
+        "houseNumber": "20",
+        "latitude": 48.1243767,
+        "longitude": 11.5564586
+    },
+    {
+        "id": "5870708795",
+        "name": "Café Ola ta Kala",
+        "category": "Café",
+        "street": "Kapuzinerstraße",
+        "houseNumber": "31",
+        "latitude": 48.1254053,
+        "longitude": 11.5613126
+    },
+    {
+        "id": "5884460235",
+        "name": "Glamour African Cuisine",
+        "category": "Pub",
+        "street": "Kapuzinerstraße",
+        "houseNumber": "4",
+        "latitude": 48.1278075,
+        "longitude": 11.5564504
+    },
+    {
+        "id": "5894822921",
+        "name": "Cafino",
+        "category": "Café",
+        "street": "Truderinger Straße",
+        "houseNumber": "277",
+        "latitude": 48.1236985,
+        "longitude": 11.6674249
+    },
+    {
+        "id": "5896184903",
+        "name": "Bäckerei Konditorei Café Paul Isaak",
+        "category": "Café",
+        "street": "Südliche Auffahrtsallee",
+        "houseNumber": "73",
+        "latitude": 48.1582279,
+        "longitude": 11.5128338
+    },
+    {
+        "id": "5896767093",
+        "name": "Bumsvoll Bar",
+        "category": "Pub",
+        "street": "Zugspitzstraße",
+        "houseNumber": "19",
+        "latitude": 48.1169123,
+        "longitude": 11.583973
+    },
+    {
+        "id": "5951675866",
+        "name": "MUCA",
+        "category": "Museum",
+        "street": "Hotterstraße",
+        "houseNumber": "12",
+        "latitude": 48.1367011,
+        "longitude": 11.570045
+    },
+    {
+        "id": "6007899422",
+        "name": "schokoAlm",
+        "category": "Café",
+        "street": "Kazmairstraße",
+        "houseNumber": "33",
+        "latitude": 48.1344819,
+        "longitude": 11.5422433
+    },
+    {
+        "id": "6015351089",
+        "name": "Genuss&Harmonie",
+        "category": "Café",
+        "street": "Hultschiner Straße",
+        "houseNumber": "8",
+        "latitude": 48.1371807,
+        "longitude": 11.635037,
+        "description": "Self-service cafe bar"
+    },
+    {
+        "id": "6063853525",
+        "name": "Starbucks",
+        "category": "Café",
+        "street": "Arnulfstraße",
+        "houseNumber": "34",
+        "latitude": 48.1430781,
+        "longitude": 11.5560227
+    },
+    {
+        "id": "6144710200",
+        "name": "Caffè Hausbrandt Kapotheke",
+        "category": "Café",
+        "street": "Donnersbergerstraße",
+        "houseNumber": "35",
+        "latitude": 48.1488303,
+        "longitude": 11.5338125
+    },
+    {
+        "id": "6281629892",
+        "name": "Schön-Stüberl",
+        "category": "Pub",
+        "street": "Schönstraße",
+        "houseNumber": "4",
+        "latitude": 48.1113425,
+        "longitude": 11.5686763
+    },
+    {
+        "id": "6281670071",
+        "name": "GUV Bluesbar",
+        "category": "Pub",
+        "street": "Ludmillastraße",
+        "houseNumber": "20a",
+        "latitude": 48.1100957,
+        "longitude": 11.5677438
+    },
+    {
+        "id": "6284579807",
+        "name": "Cafe 1",
+        "category": "Café",
+        "street": "Berg-am-Laim-Straße",
+        "houseNumber": "50",
+        "latitude": 48.1308537,
+        "longitude": 11.6152799,
+        "description": "Karten ab 5 EUR"
+    },
+    {
+        "id": "6326882351",
+        "name": "Astron",
+        "category": "Pub",
+        "street": "Plinganserstraße",
+        "houseNumber": "20",
+        "latitude": 48.1204291,
+        "longitude": 11.5407451
+    },
+    {
+        "id": "6354651885",
+        "name": "Farry",
+        "category": "Café",
+        "street": "Rosenkavalierplatz",
+        "houseNumber": "15",
+        "latitude": 48.1515753,
+        "longitude": 11.6198433
+    },
+    {
+        "id": "6397269644",
+        "name": "Lavy",
+        "category": "Café",
+        "street": "Hohenzollernstraße",
+        "houseNumber": "58",
+        "latitude": 48.1601884,
+        "longitude": 11.5783199
+    },
+    {
+        "id": "6409611945",
+        "name": "Bicicletta",
+        "category": "Café",
+        "street": "Leopoldstraße",
+        "houseNumber": "170",
+        "latitude": 48.1714718,
+        "longitude": 11.5865671
+    },
+    {
+        "id": "6420324525",
+        "name": "s'Krügerl",
+        "category": "Pub",
+        "street": "Bunzlauer Straße",
+        "houseNumber": "14",
+        "latitude": 48.1804364,
+        "longitude": 11.5077796
+    },
+    {
+        "id": "6424033206",
+        "name": "Ratschiller's",
+        "category": "Café",
+        "street": "Charles-de-Gaulle-Straße",
+        "houseNumber": "2a",
+        "latitude": 48.1016639,
+        "longitude": 11.6441725
+    },
+    {
+        "id": "6430821885",
+        "name": "WonderWaffel",
+        "category": "Café",
+        "street": "Sendlinger Straße",
+        "houseNumber": "31",
+        "latitude": 48.1346668,
+        "longitude": 11.569806
+    },
+    {
+        "id": "6433211393",
+        "name": "Play 1",
+        "category": "Café",
+        "street": "Waltherstraße",
+        "houseNumber": "21",
+        "latitude": 48.1287469,
+        "longitude": 11.5603785
+    },
+    {
+        "id": "6434138214",
+        "name": "Café bei Aras",
+        "category": "Café",
+        "street": "Werinherstraße",
+        "houseNumber": "69",
+        "latitude": 48.1151433,
+        "longitude": 11.5938657
+    },
+    {
+        "id": "6499444628",
+        "name": "Madam Anna Ekke",
+        "category": "Café",
+        "street": "Schlörstraße",
+        "houseNumber": "11",
+        "latitude": 48.1498282,
+        "longitude": 11.5349221
+    },
+    {
+        "id": "6537029216",
+        "name": "Gaschstätte",
+        "category": "Café",
+        "street": "Sankt-Nikolaus-Platz",
+        "houseNumber": "3",
+        "latitude": 48.1932383,
+        "longitude": 11.6159728
+    },
+    {
+        "id": "6567898822",
+        "name": "StuCafé Leopoldstraße",
+        "category": "Café",
+        "street": "Leopoldstraße",
+        "houseNumber": "13a",
+        "latitude": 48.1565592,
+        "longitude": 11.5819648
+    },
+    {
+        "id": "6611224412",
+        "name": "Minimis Coffeehouse",
+        "category": "Café",
+        "street": "Erich-Kästner-Straße",
+        "houseNumber": "2",
+        "latitude": 48.1619511,
+        "longitude": 11.5690117
+    },
+    {
+        "id": "6617193978",
+        "name": "café regenbogen",
+        "category": "Café",
+        "street": "Lindwurmstraße",
+        "houseNumber": "71",
+        "latitude": 48.129907,
+        "longitude": 11.5595675
+    },
+    {
+        "id": "6651318577",
+        "name": "Espressini",
+        "category": "Café",
+        "street": "Trautenwolfstraße",
+        "houseNumber": "1",
+        "latitude": 48.1580479,
+        "longitude": 11.5856357
+    },
+    {
+        "id": "6682341765",
+        "name": "café mon",
+        "category": "Café",
+        "street": "Siebertstraße",
+        "houseNumber": "2",
+        "latitude": 48.1435925,
+        "longitude": 11.5990935
+    },
+    {
+        "id": "6769271545",
+        "name": "Balkanbäckerei Ana Pek",
+        "category": "Café",
+        "street": "Winterthurer Straße",
+        "houseNumber": "2",
+        "latitude": 48.0956317,
+        "longitude": 11.4965051
+    },
+    {
+        "id": "6779297277",
+        "name": "Daily Snacks",
+        "category": "Café",
+        "street": "Pfälzer-Wald-Straße",
+        "houseNumber": "73",
+        "latitude": 48.1078396,
+        "longitude": 11.5997465
+    },
+    {
+        "id": "6786384878",
+        "name": "Cafegarten im Schwabinger",
+        "category": "Café",
+        "street": "Kölner Platz",
+        "houseNumber": "1",
+        "latitude": 48.1712293,
+        "longitude": 11.5776207
+    },
+    {
+        "id": "6829853951",
+        "name": "SALLIS Kaffeerösterei",
+        "category": "Café",
+        "street": "Donnersbergerstraße",
+        "houseNumber": "47",
+        "latitude": 48.1477873,
+        "longitude": 11.5342162,
+        "description": "Kaffeerösterei & Espressobar"
+    },
+    {
+        "id": "6840405993",
+        "name": "Cafe Amadeus",
+        "category": "Café",
+        "street": "Weitlstraße",
+        "houseNumber": "66",
+        "latitude": 48.2089799,
+        "longitude": 11.5545924
+    },
+    {
+        "id": "6915909734",
+        "name": "Pazifik Brot & Seele Balkan Bäckerei 2",
+        "category": "Café",
+        "street": "Ottobrunner Straße",
+        "houseNumber": "26",
+        "latitude": 48.1103509,
+        "longitude": 11.6179266
+    },
+    {
+        "id": "7001481987",
+        "name": "nourish café soul concept",
+        "category": "Café",
+        "street": "Donnersbergerstraße",
+        "houseNumber": "8",
+        "latitude": 48.1512633,
+        "longitude": 11.5335457,
+        "description": "nourish café soul concept"
+    },
+    {
+        "id": "7039126262",
+        "name": "diversity Café",
+        "category": "Café",
+        "street": "Blumenstraße",
+        "houseNumber": "29",
+        "latitude": 48.1317004,
+        "longitude": 11.5707834,
+        "description": "Bar & Cafe der queeren Jugendorganisation München e.V. . Normaler Cafébetrieb an Dienstag, Donnerstag und Sonntag. Mittwochs als Bar geöffnet."
+    },
+    {
+        "id": "7128363450",
+        "name": "Eduards Cafe Bar",
+        "category": "Café",
+        "street": "Richelstraße",
+        "houseNumber": "2",
+        "latitude": 48.1461998,
+        "longitude": 11.5345257
+    },
+    {
+        "id": "7161349985",
+        "name": "Scholars Lounge Irish Pub",
+        "category": "Pub",
+        "street": "Hochbrückenstraße",
+        "houseNumber": "3",
+        "latitude": 48.1364822,
+        "longitude": 11.5795753
+    },
+    {
+        "id": "7179321926",
+        "name": "Schnickschnack",
+        "category": "Café",
+        "street": "Boschetsrieder Straße",
+        "houseNumber": "142",
+        "latitude": 48.0981181,
+        "longitude": 11.5094708
+    },
+    {
+        "id": "7203655050",
+        "name": "Kastaniengarten",
+        "category": "Pub",
+        "street": "Martin-Luther-Straße",
+        "houseNumber": "11",
+        "latitude": 48.1137676,
+        "longitude": 11.5768467
+    },
+    {
+        "id": "7217278671",
+        "name": "suess&buttrig",
+        "category": "Café",
+        "street": "Heideckstraße",
+        "houseNumber": "14",
+        "latitude": 48.1616066,
+        "longitude": 11.5404044
+    },
+    {
+        "id": "7554123036",
+        "name": "QuMa's Eatery",
+        "category": "Café",
+        "street": "Frankfurter Ring",
+        "houseNumber": "150",
+        "latitude": 48.1877105,
+        "longitude": 11.5870425
+    },
+    {
+        "id": "7554476548",
+        "name": "Cafe Steherl Bar",
+        "category": "Pub",
+        "street": "Ingolstädter Straße",
+        "houseNumber": "111a",
+        "latitude": 48.1964673,
+        "longitude": 11.5839645
+    },
+    {
+        "id": "7645803209",
+        "name": "Binette-Schroeder-Kabinett",
+        "category": "Museum",
+        "street": "Seldweg",
+        "houseNumber": "15",
+        "latitude": 48.1633541,
+        "longitude": 11.4564068,
+        "description": "Werke der Kinderbuchillustratorin Binnette Schroeder"
+    },
+    {
+        "id": "7660572699",
+        "name": "James-Krüss-Turm",
+        "category": "Museum",
+        "street": "Seldweg",
+        "houseNumber": "15",
+        "latitude": 48.1628279,
+        "longitude": 11.4570457,
+        "description": "Nachlass des Kinder- und Bilderbuchautors James Krüss (Anmeldung im Herrenhaus)"
+    },
+    {
+        "id": "7660572700",
+        "name": "Michael-Ende-Museum",
+        "category": "Museum",
+        "street": "Seldweg",
+        "houseNumber": "15",
+        "latitude": 48.1632327,
+        "longitude": 11.4571363,
+        "description": "Leben und Werk des Kinder- und Jugendbuchautors Michael Ende"
+    },
+    {
+        "id": "7731153570",
+        "name": "Fela",
+        "category": "Café",
+        "street": "Nordendstraße",
+        "houseNumber": "52",
+        "latitude": 48.1580167,
+        "longitude": 11.5750984,
+        "description": "Asian Cafe & Potteries"
+    },
+    {
+        "id": "7786283836",
+        "name": "Dinatale",
+        "category": "Café",
+        "street": "Georgenstraße",
+        "houseNumber": "24",
+        "latitude": 48.1548317,
+        "longitude": 11.5795111
+    },
+    {
+        "id": "7864694079",
+        "name": "Kuchentratsch Café",
+        "category": "Café",
+        "street": "Theresienhöhe",
+        "houseNumber": "30",
+        "latitude": 48.1283452,
+        "longitude": 11.5445078
+    },
+    {
+        "id": "7909388398",
+        "name": "Jugendcafé",
+        "category": "Café",
+        "street": "Hochäckerstraße",
+        "houseNumber": "87",
+        "latitude": 48.1010705,
+        "longitude": 11.6231633
+    },
+    {
+        "id": "7933848673",
+        "name": "Idee e complimenti",
+        "category": "Café",
+        "street": "Sollner Straße",
+        "houseNumber": "43b",
+        "latitude": 48.0804712,
+        "longitude": 11.5263046
+    },
+    {
+        "id": "8176199560",
+        "name": "Flower",
+        "category": "Café",
+        "street": "Dachauer Straße",
+        "houseNumber": "114",
+        "latitude": 48.1591567,
+        "longitude": 11.5482233
+    },
+    {
+        "id": "8315437955",
+        "name": "Sebastianseck",
+        "category": "Landmark",
+        "street": "Sebastiansplatz",
+        "houseNumber": "3",
+        "latitude": 48.134741,
+        "longitude": 11.5736389,
+        "description": "In diesem Haus wohnte unter anderem Freddie Mercury"
+    },
+    {
+        "id": "8390913761",
+        "name": "Pils Hütt'n",
+        "category": "Pub",
+        "street": "Ostpreußenstraße",
+        "houseNumber": "25",
+        "latitude": 48.1492069,
+        "longitude": 11.6407119
+    },
+    {
+        "id": "8401596017",
+        "name": "Luitpold & Auguste",
+        "category": "Café",
+        "street": "Prinzregentenstraße",
+        "houseNumber": "115",
+        "latitude": 48.1385364,
+        "longitude": 11.6123172
+    },
+    {
+        "id": "8401640818",
+        "name": "Cafézauber",
+        "category": "Café",
+        "street": "Zaubzerstraße",
+        "houseNumber": "11",
+        "latitude": 48.1397661,
+        "longitude": 11.6098603
+    },
+    {
+        "id": "8423105095",
+        "name": "Bici Bavarese",
+        "category": "Café",
+        "street": "Türkenstraße",
+        "houseNumber": "26",
+        "latitude": 48.1473121,
+        "longitude": 11.5742182
+    },
+    {
+        "id": "8476685724",
+        "name": "Cafe Duuo",
+        "category": "Café",
+        "street": "Gollierstraße",
+        "houseNumber": "53",
+        "latitude": 48.1356584,
+        "longitude": 11.5386406
+    },
+    {
+        "id": "8750284561",
+        "name": "Café La Perla",
+        "category": "Café",
+        "street": "Eversbuschstraße",
+        "houseNumber": "7",
+        "latitude": 48.1776703,
+        "longitude": 11.4616431
+    },
+    {
+        "id": "8837084348",
+        "name": "Anna's",
+        "category": "Café",
+        "street": "Floriansmühlstraße",
+        "houseNumber": "20",
+        "latitude": 48.191748,
+        "longitude": 11.6200223
+    },
+    {
+        "id": "8926006080",
+        "name": "Die Mercerie",
+        "category": "Café",
+        "street": "Nymphenburger Straße",
+        "houseNumber": "96",
+        "latitude": 48.1507007,
+        "longitude": 11.5437934
+    },
+    {
+        "id": "8968209917",
+        "name": "Schwarzhubers Abenteuerland",
+        "category": "Café",
+        "street": "Schwarzhuberweg",
+        "houseNumber": "1",
+        "latitude": 48.2073798,
+        "longitude": 11.4496412,
+        "description": "Nicht in Liste der Stadt München, Adresse stammt von Webseite des Betreibers, kein blaues Hausnummernschild #Adressenabgleich"
+    },
+    {
+        "id": "9009823784",
+        "name": "Rischart",
+        "category": "Café",
+        "street": "Willy-Brandt-Platz",
+        "houseNumber": "5",
+        "latitude": 48.1322098,
+        "longitude": 11.6917572
+    },
+    {
+        "id": "9014874737",
+        "name": "amal",
+        "category": "Café",
+        "street": "Rosenheimer Straße",
+        "houseNumber": "141h",
+        "latitude": 48.1233232,
+        "longitude": 11.6034324
+    },
+    {
+        "id": "9039134472",
+        "name": "Morso Museo",
+        "category": "Café",
+        "street": "Theresienstraße",
+        "houseNumber": "35",
+        "latitude": 48.148072,
+        "longitude": 11.5746899
+    },
+    {
+        "id": "9047980483",
+        "name": "Augustiner Stehausschank",
+        "category": "Pub",
+        "street": "Frauenplatz",
+        "houseNumber": "9",
+        "latitude": 48.138091,
+        "longitude": 11.5741147
+    },
+    {
+        "id": "9110413117",
+        "name": "The Flash Gordon",
+        "category": "Café",
+        "street": "Freddie-Mercury-Straße",
+        "houseNumber": "5",
+        "latitude": 48.1571751,
+        "longitude": 11.5513352
+    },
+    {
+        "id": "9152555519",
+        "name": "Mahlkunst",
+        "category": "Café",
+        "street": "Theresienhöhe",
+        "houseNumber": "5",
+        "latitude": 48.1367325,
+        "longitude": 11.5459381
+    },
+    {
+        "id": "9223300411",
+        "name": "Messer & Gabel",
+        "category": "Café",
+        "street": "Balanstraße",
+        "houseNumber": "69b",
+        "latitude": 48.120012,
+        "longitude": 11.600184
+    },
+    {
+        "id": "9253041473",
+        "name": "Cole & Porter",
+        "category": "Café",
+        "street": "Sendlinger Straße",
+        "houseNumber": "10",
+        "latitude": 48.1360641,
+        "longitude": 11.571457,
+        "description": "cafe bar wine food"
+    },
+    {
+        "id": "9278452149",
+        "name": "coffeemamas",
+        "category": "Café",
+        "street": "Lindwurmstraße",
+        "houseNumber": "46",
+        "latitude": 48.1277764,
+        "longitude": 11.5543528
+    },
+    {
+        "id": "9347174619",
+        "name": "Epique Raw",
+        "category": "Café",
+        "street": "Max-Weber-Platz",
+        "houseNumber": "11",
+        "latitude": 48.1351596,
+        "longitude": 11.598013,
+        "description": "Raw patisserie"
+    },
+    {
+        "id": "9521173702",
+        "name": "Maria's Café",
+        "category": "Café",
+        "street": "Chiemgaustraße",
+        "houseNumber": "20b",
+        "latitude": 48.1045825,
+        "longitude": 11.5845533
+    },
+    {
+        "id": "9529596579",
+        "name": "Rösterei am Platzl",
+        "category": "Café",
+        "street": "Orlandostraße",
+        "houseNumber": "6",
+        "latitude": 48.1372894,
+        "longitude": 11.579388
+    },
+    {
+        "id": "9550068981",
+        "name": "3Mills Cycling & Coffee",
+        "category": "Café",
+        "street": "Dreimühlenstraße",
+        "houseNumber": "40",
+        "latitude": 48.1200539,
+        "longitude": 11.5585018
+    },
+    {
+        "id": "9551743574",
+        "name": "Café GeQo",
+        "category": "Café",
+        "street": "Maria-Nindl-Platz",
+        "houseNumber": "6",
+        "latitude": 48.1628827,
+        "longitude": 11.6303998
+    },
+    {
+        "id": "9581301293",
+        "name": "Feinkost Caffè Italia",
+        "category": "Café",
+        "street": "Kreillerstraße",
+        "houseNumber": "172",
+        "latitude": 48.1234557,
+        "longitude": 11.6579166
+    },
+    {
+        "id": "9588113332",
+        "name": "Fakultät",
+        "category": "Café",
+        "street": "Schützenstraße",
+        "houseNumber": "1",
+        "latitude": 48.13944,
+        "longitude": 11.5637835
+    },
+    {
+        "id": "9590332357",
+        "name": "Bufet | Bier & Wurst",
+        "category": "Pub",
+        "street": "Dachauer Straße",
+        "houseNumber": "7a",
+        "latitude": 48.1424953,
+        "longitude": 11.5598675
+    },
+    {
+        "id": "9608347267",
+        "name": "French Touch Pâtisserie",
+        "category": "Café",
+        "street": "Brunnstraße",
+        "houseNumber": "4",
+        "latitude": 48.1362758,
+        "longitude": 11.5689141
+    },
+    {
+        "id": "9626169771",
+        "name": "Loop Tea",
+        "category": "Café",
+        "street": "Rindermarkt",
+        "houseNumber": "6",
+        "latitude": 48.1359895,
+        "longitude": 11.5744483
+    },
+    {
+        "id": "9736943822",
+        "name": "griabig",
+        "category": "Café",
+        "street": "Bräuhausstraße",
+        "houseNumber": "8",
+        "latitude": 48.1371487,
+        "longitude": 11.5802492
+    },
+    {
+        "id": "9823452849",
+        "name": "Zum Deifi",
+        "category": "Pub",
+        "street": "Nietzschestraße",
+        "houseNumber": "32",
+        "latitude": 48.1786037,
+        "longitude": 11.5712268
+    },
+    {
+        "id": "9844332568",
+        "name": "Higgins Tap Room",
+        "category": "Pub",
+        "street": "Karlstraße",
+        "houseNumber": "122",
+        "latitude": 48.1473077,
+        "longitude": 11.5523367
+    },
+    {
+        "id": "9924018308",
+        "name": "TeaOne München",
+        "category": "Café",
+        "street": "Herzog-Wilhelm-Straße",
+        "houseNumber": "1",
+        "latitude": 48.1383256,
+        "longitude": 11.5669187
+    },
+    {
+        "id": "9936668968",
+        "name": "Suuapinga",
+        "category": "Café",
+        "street": "Herzogstraße",
+        "houseNumber": "85",
+        "latitude": 48.1625835,
+        "longitude": 11.5727985
+    },
+    {
+        "id": "9982958632",
+        "name": "Stray Coffee",
+        "category": "Café",
+        "street": "Gollierstraße",
+        "houseNumber": "30",
+        "latitude": 48.1357956,
+        "longitude": 11.5415899
+    },
+    {
+        "id": "10076369821",
+        "name": "StuCafé",
+        "category": "Café",
+        "street": "Lothstraße",
+        "houseNumber": "64",
+        "latitude": 48.1549864,
+        "longitude": 11.555741
+    },
+    {
+        "id": "10099124158",
+        "name": "Creme Cafe Eis",
+        "category": "Café",
+        "street": "Karl-Preis-Platz",
+        "houseNumber": "4",
+        "latitude": 48.1193378,
+        "longitude": 11.6102149
+    },
+    {
+        "id": "10162013596",
+        "name": "Nördliche Weichenbauwerkstätte",
+        "category": "Landmark",
+        "street": "Ria-Burkei-Straße",
+        "houseNumber": "5, 9, 13",
+        "latitude": 48.1368637,
+        "longitude": 11.4186234,
+        "description": "Teil des ehemaligen Ausbesserungswerks Aubing"
+    },
+    {
+        "id": "10174159620",
+        "name": "Lieblingscafe",
+        "category": "Café",
+        "street": "Tegernseer Landstraße",
+        "houseNumber": "77",
+        "latitude": 48.1145502,
+        "longitude": 11.5792655
+    },
+    {
+        "id": "10200273362",
+        "name": "Café Roma",
+        "category": "Café",
+        "street": "Maximilianstraße",
+        "houseNumber": "33",
+        "latitude": 48.1387135,
+        "longitude": 11.5841083
+    },
+    {
+        "id": "10204979730",
+        "name": "Asma",
+        "category": "Café",
+        "street": "Winzererstraße",
+        "houseNumber": "49",
+        "latitude": 48.1639724,
+        "longitude": 11.5625944,
+        "description": "GLS & DPD Pickup"
+    },
+    {
+        "id": "10218193245",
+        "name": "Café Violin",
+        "category": "Café",
+        "street": "Martin-Luther-Straße",
+        "houseNumber": "26",
+        "latitude": 48.1131533,
+        "longitude": 11.576164
+    },
+    {
+        "id": "10238152053",
+        "name": "Nai Cha",
+        "category": "Café",
+        "street": "Sonnenstraße",
+        "houseNumber": "4",
+        "latitude": 48.1379796,
+        "longitude": 11.5645799,
+        "description": "Inside Anzi Kitchen"
+    },
+    {
+        "id": "10244266823",
+        "name": "EspressoBar by BalanDeli",
+        "category": "Café",
+        "street": "Brienner Straße",
+        "houseNumber": "11",
+        "latitude": 48.1426312,
+        "longitude": 11.5744337
+    },
+    {
+        "id": "10313117473",
+        "name": "Gut Löwenecks Genusswerkstatt",
+        "category": "Café",
+        "street": "Pfisterstraße",
+        "houseNumber": "7",
+        "latitude": 48.1383263,
+        "longitude": 11.5796969
+    },
+    {
+        "id": "10538342291",
+        "name": "The Spirited Goat",
+        "category": "Café",
+        "street": "Hohenzollernstraße",
+        "houseNumber": "59",
+        "latitude": 48.1603544,
+        "longitude": 11.5741097
+    },
+    {
+        "id": "10555718300",
+        "name": "Ohana",
+        "category": "Café",
+        "street": "Hohenzollernstraße",
+        "houseNumber": "40",
+        "latitude": 48.1600022,
+        "longitude": 11.5807985
+    },
+    {
+        "id": "10570665583",
+        "name": "Fräulein Grüneis",
+        "category": "Café",
+        "street": "Lerchenfeldstraße",
+        "houseNumber": "1a",
+        "latitude": 48.1436633,
+        "longitude": 11.58896
+    },
+    {
+        "id": "10572477326",
+        "name": "Peet and the Flat White",
+        "category": "Café",
+        "street": "Heßstraße",
+        "houseNumber": "74",
+        "latitude": 48.1530267,
+        "longitude": 11.5625025
+    },
+    {
+        "id": "10574765396",
+        "name": "Dinatale",
+        "category": "Café",
+        "street": "Elisabethstraße",
+        "houseNumber": "2",
+        "latitude": 48.1578872,
+        "longitude": 11.5738068
+    },
+    {
+        "id": "10575307360",
+        "name": "Cafe Franz",
+        "category": "Café",
+        "street": "Agnesstraße",
+        "houseNumber": "6",
+        "latitude": 48.1572776,
+        "longitude": 11.5718948,
+        "description": "Frühstückslokal"
+    },
+    {
+        "id": "10633760378",
+        "name": "Café Karadeniz",
+        "category": "Café",
+        "street": "Hofangerstraße",
+        "houseNumber": "2",
+        "latitude": 48.1183157,
+        "longitude": 11.6302715
+    },
+    {
+        "id": "10656125649",
+        "name": "MaBe",
+        "category": "Café",
+        "street": "Schellingstraße",
+        "houseNumber": "143",
+        "latitude": 48.1542917,
+        "longitude": 11.5613709,
+        "description": "Story Cafe - geschlossen, jetzt in der Augustenstraße 29"
+    },
+    {
+        "id": "10665104378",
+        "name": "Zum Holzwurm",
+        "category": "Pub",
+        "street": "Scheidplatz",
+        "houseNumber": "1a",
+        "latitude": 48.1706674,
+        "longitude": 11.5741542
+    },
+    {
+        "id": "10678950902",
+        "name": "Taubenschlag Bar",
+        "category": "Pub",
+        "street": "Schulstraße",
+        "houseNumber": "15",
+        "latitude": 48.1504618,
+        "longitude": 11.5347043
+    },
+    {
+        "id": "10713212040",
+        "name": "Boazn - Öffentliche Bedürfnisanstalt",
+        "category": "Pub",
+        "street": "Karl-Müller-Weg",
+        "houseNumber": "2",
+        "latitude": 48.1317058,
+        "longitude": 11.5876304
+    },
+    {
+        "id": "10716766905",
+        "name": "Matcha Lab",
+        "category": "Café",
+        "street": "Altheimer Eck",
+        "houseNumber": "9",
+        "latitude": 48.1373752,
+        "longitude": 11.5705815
+    },
+    {
+        "id": "10726408943",
+        "name": "Palmi",
+        "category": "Café",
+        "street": "Franz-Joseph-Straße",
+        "houseNumber": "33",
+        "latitude": 48.1576611,
+        "longitude": 11.578408,
+        "description": "Café & Concept Store"
+    },
+    {
+        "id": "10812425229",
+        "name": "Königin 43",
+        "category": "Café",
+        "street": "Kaulbachstraße",
+        "houseNumber": "36",
+        "latitude": 48.1501849,
+        "longitude": 11.5842191
+    },
+    {
+        "id": "10900309574",
+        "name": "A small café",
+        "category": "Café",
+        "street": "Müllerstraße",
+        "houseNumber": "17",
+        "latitude": 48.1314564,
+        "longitude": 11.571987
+    },
+    {
+        "id": "10942451766",
+        "name": "Pils Quelle",
+        "category": "Pub",
+        "street": "Heideckstraße",
+        "houseNumber": "14",
+        "latitude": 48.1618185,
+        "longitude": 11.5403756
+    },
+    {
+        "id": "11011066463",
+        "name": "eigenleben",
+        "category": "Café",
+        "street": "Kurfürstenstraße",
+        "houseNumber": "2",
+        "latitude": 48.1531642,
+        "longitude": 11.576595,
+        "description": "Cafe, Kultur, Kurse, Küche wie früher"
+    },
+    {
+        "id": "11055416133",
+        "name": "Neo Society",
+        "category": "Café",
+        "street": "Herzogstraße",
+        "houseNumber": "77",
+        "latitude": 48.1624655,
+        "longitude": 11.5737209,
+        "description": "Fair trade"
+    },
+    {
+        "id": "11073340805",
+        "name": "Dolce e Salato",
+        "category": "Café",
+        "street": "Hinterbärenbadstraße",
+        "houseNumber": "74",
+        "latitude": 48.1208429,
+        "longitude": 11.5193958
+    },
+    {
+        "id": "11084026582",
+        "name": "Hirikki - Coffee & Soulfood",
+        "category": "Café",
+        "street": "Oskar-von-Miller-Ring",
+        "houseNumber": "20",
+        "latitude": 48.1451166,
+        "longitude": 11.5759748
+    },
+    {
+        "id": "11085831474",
+        "name": "Schwarzer Hahn",
+        "category": "Pub",
+        "street": "Ohlmüllerstraße",
+        "houseNumber": "8",
+        "latitude": 48.1258949,
+        "longitude": 11.5787202
+    },
+    {
+        "id": "11090437705",
+        "name": "Café Faber",
+        "category": "Café",
+        "street": "Zeppelinstraße",
+        "houseNumber": "5",
+        "latitude": 48.1251147,
+        "longitude": 11.5806389
+    },
+    {
+        "id": "11091108505",
+        "name": "Unnamed",
+        "category": "Café",
+        "street": "Türkenstraße",
+        "houseNumber": "84a",
+        "latitude": 48.1517166,
+        "longitude": 11.5773954
+    },
+    {
+        "id": "11099726845",
+        "name": "Museum Brandhorst",
+        "category": "Museum",
+        "street": "Theresienstraße",
+        "houseNumber": "35a",
+        "latitude": 48.1481178,
+        "longitude": 11.5740913
+    },
+    {
+        "id": "11107599001",
+        "name": "Der Die Das",
+        "category": "Café",
+        "street": "Görresstraße",
+        "houseNumber": "9",
+        "latitude": 48.1547211,
+        "longitude": 11.5660644
+    },
+    {
+        "id": "11143377602",
+        "name": "Man versus machine",
+        "category": "Café",
+        "street": "Schellingstraße",
+        "houseNumber": "18",
+        "latitude": 48.1499079,
+        "longitude": 11.5776087
+    },
+    {
+        "id": "11144717776",
+        "name": "Legendary",
+        "category": "Pub",
+        "street": "Kurfürstenstraße",
+        "houseNumber": "11",
+        "latitude": 48.1541116,
+        "longitude": 11.5762017
+    },
+    {
+        "id": "11281721444",
+        "name": "Dapkies",
+        "category": "Café",
+        "street": "Pestalozzistraße",
+        "houseNumber": "7",
+        "latitude": 48.131264,
+        "longitude": 11.567506
+    },
+    {
+        "id": "11455582969",
+        "name": "Tillu",
+        "category": "Café",
+        "street": "Augustenstraße",
+        "houseNumber": "106",
+        "latitude": 48.15343,
+        "longitude": 11.565908
+    },
+    {
+        "id": "11673168518",
+        "name": "Starbucks",
+        "category": "Café",
+        "street": "Sendlinger Straße",
+        "houseNumber": "37",
+        "latitude": 48.1344391,
+        "longitude": 11.568761
+    },
+    {
+        "id": "11682170819",
+        "name": "Lauble CoffeeBar",
+        "category": "Café",
+        "street": "Blieskastelstraße",
+        "houseNumber": "4",
+        "latitude": 48.0947052,
+        "longitude": 11.5349485
+    },
+    {
+        "id": "11733914323",
+        "name": "idilio",
+        "category": "Café",
+        "street": "Zielstattstraße",
+        "houseNumber": "32",
+        "latitude": 48.1030224,
+        "longitude": 11.5278964
+    },
+    {
+        "id": "11764790078",
+        "name": "Suuapinga",
+        "category": "Café",
+        "street": "Müllerstraße",
+        "houseNumber": "46",
+        "latitude": 48.1313706,
+        "longitude": 11.5687782
+    },
+    {
+        "id": "11767326875",
+        "name": "il Concetto",
+        "category": "Café",
+        "street": "Gollierstraße",
+        "houseNumber": "14",
+        "latitude": 48.1359022,
+        "longitude": 11.5448517,
+        "description": "italienische Aperitivo-Bar"
+    },
+    {
+        "id": "11800370739",
+        "name": "MARI",
+        "category": "Café",
+        "street": "Adlzreiterstraße",
+        "houseNumber": "36",
+        "latitude": 48.1247768,
+        "longitude": 11.5555958
+    },
+    {
+        "id": "11933309402",
+        "name": "Münchner Stadtmuseum",
+        "category": "Museum",
+        "street": "Sankt-Jakobs-Platz",
+        "houseNumber": "1",
+        "latitude": 48.1351078,
+        "longitude": 11.5730339,
+        "description": "Wegen Sanierungsarbeiten bis Juni 2027 geschlosen. Siehe: https://www.muenchner-stadtmuseum.de/generalsanierung"
+    },
+    {
+        "id": "12029862472",
+        "name": "Cafe Arcadas",
+        "category": "Café",
+        "street": "Landsberger Straße",
+        "houseNumber": "214a",
+        "latitude": 48.1422984,
+        "longitude": 11.516032
+    },
+    {
+        "id": "12043464624",
+        "name": "sweet spot kaffee",
+        "category": "Café",
+        "street": "Reichenbachstraße",
+        "houseNumber": "38",
+        "latitude": 48.1290351,
+        "longitude": 11.5755359
+    },
+    {
+        "id": "12143592002",
+        "name": "Café Moinspatz",
+        "category": "Café",
+        "street": "Türkenstraße",
+        "houseNumber": "26",
+        "latitude": 48.1472906,
+        "longitude": 11.5741931
+    },
+    {
+        "id": "12169637128",
+        "name": "Backspielhaus",
+        "category": "Café",
+        "street": "Jägerstraße",
+        "houseNumber": "2",
+        "latitude": 48.1443135,
+        "longitude": 11.5767472
+    },
+    {
+        "id": "12187034377",
+        "name": "Cafe am Sendlinger Tor",
+        "category": "Café",
+        "street": "Sendlinger-Tor-Platz",
+        "houseNumber": "10",
+        "latitude": 48.1339354,
+        "longitude": 11.5667108
+    },
+    {
+        "id": "12227813179",
+        "name": "The Annamites Coffee Roasters",
+        "category": "Café",
+        "street": "Fallstraße",
+        "houseNumber": "26",
+        "latitude": 48.108548,
+        "longitude": 11.5386881
+    },
+    {
+        "id": "12250382813",
+        "name": "DailyMatcha",
+        "category": "Café",
+        "street": "Leopoldstraße",
+        "houseNumber": "20",
+        "latitude": 48.1540654,
+        "longitude": 11.5834544
+    },
+    {
+        "id": "12328908201",
+        "name": "Oh, Ja! Café",
+        "category": "Café",
+        "street": "Buttermelcherstraße",
+        "houseNumber": "5",
+        "latitude": 48.1327995,
+        "longitude": 11.5776242
+    },
+    {
+        "id": "12334029762",
+        "name": "Topic Cafe",
+        "category": "Café",
+        "street": "Stahlgruberring",
+        "houseNumber": "48",
+        "latitude": 48.1354402,
+        "longitude": 11.6700871
+    },
+    {
+        "id": "12386638315",
+        "name": "Riedmair",
+        "category": "Café",
+        "street": "Pelkovenstraße",
+        "houseNumber": "63",
+        "latitude": 48.182091,
+        "longitude": 11.5179035
+    },
+    {
+        "id": "12445437589",
+        "name": "Primo",
+        "category": "Café",
+        "street": "Coubertinplatz",
+        "houseNumber": "1",
+        "latitude": 48.1740305,
+        "longitude": 11.5517529
+    },
+    {
+        "id": "12472106301",
+        "name": "Zimt & Zucker",
+        "category": "Café",
+        "street": "Franz-Nißl-Straße",
+        "houseNumber": "21",
+        "latitude": 48.1889947,
+        "longitude": 11.4642029
+    },
+    {
+        "id": "12523273648",
+        "name": "Sweetery",
+        "category": "Café",
+        "street": "Altheimer Eck",
+        "houseNumber": "5",
+        "latitude": 48.1373453,
+        "longitude": 11.5707945
+    },
+    {
+        "id": "12567039977",
+        "name": "Rischart",
+        "category": "Café",
+        "street": "Theresienhöhe",
+        "houseNumber": "40",
+        "latitude": 48.1274027,
+        "longitude": 11.5444331
+    },
+    {
+        "id": "12581969201",
+        "name": "The Barn Altstadt",
+        "category": "Café",
+        "street": "Hochbrückenstraße",
+        "houseNumber": "4",
+        "latitude": 48.1364561,
+        "longitude": 11.5798781
+    },
+    {
+        "id": "12643823119",
+        "name": "little cafe",
+        "category": "Café",
+        "street": "Wiener Platz",
+        "houseNumber": "6",
+        "latitude": 48.1344791,
+        "longitude": 11.5962818
+    },
+    {
+        "id": "12644139467",
+        "name": "Neismanufaktur",
+        "category": "Café",
+        "street": "Schleißheimer Straße",
+        "houseNumber": "53",
+        "latitude": 48.1549409,
+        "longitude": 11.5613225
+    },
+    {
+        "id": "12647480353",
+        "name": "Caos",
+        "category": "Café",
+        "street": "Christophstraße",
+        "houseNumber": "3",
+        "latitude": 48.1413175,
+        "longitude": 11.5838122
+    },
+    {
+        "id": "12704164176",
+        "name": "Om Nom Nom",
+        "category": "Café",
+        "street": "Volkartstraße",
+        "houseNumber": "70",
+        "latitude": 48.1583783,
+        "longitude": 11.5414886,
+        "description": "Café und Feinkostgeschäft Om Nom Nom – in dem ausschließlich vegane Gerichte und Produkte verkauft werden"
+    },
+    {
+        "id": "12726581689",
+        "name": "Schnecki Back&Bar",
+        "category": "Café",
+        "street": "Sankt-Bonifatius-Straße",
+        "houseNumber": "3",
+        "latitude": 48.119424,
+        "longitude": 11.5830943
+    },
+    {
+        "id": "12849415889",
+        "name": "VS Interimsquartier des Museums Villa Stuck",
+        "category": "Museum",
+        "street": "Goethestraße",
+        "houseNumber": "54",
+        "latitude": 48.133799,
+        "longitude": 11.5581738
+    },
+    {
+        "id": "12867058771",
+        "name": "Alter Peter - Aussichtsturm",
+        "category": "Viewpoint",
+        "street": "Rindermarkt",
+        "houseNumber": "1",
+        "latitude": 48.1365477,
+        "longitude": 11.5755941
+    },
+    {
+        "id": "12923811703",
+        "name": "Café Nido",
+        "category": "Café",
+        "street": "Anglerstraße",
+        "houseNumber": "25",
+        "latitude": 48.1324522,
+        "longitude": 11.539321
+    },
+    {
+        "id": "12989525013",
+        "name": "Mex Lounge",
+        "category": "Café",
+        "street": "Sankt-Bonifatius-Straße",
+        "houseNumber": "2a",
+        "latitude": 48.1193745,
+        "longitude": 11.5825376
+    },
+    {
+        "id": "13017079203",
+        "name": "Luzi & Hank",
+        "category": "Café",
+        "street": "Elsenheimerstraße",
+        "houseNumber": "49",
+        "latitude": 48.1374826,
+        "longitude": 11.5234483
+    },
+    {
+        "id": "13059573814",
+        "name": "Zar",
+        "category": "Pub",
+        "street": "Rosenheimer Straße",
+        "houseNumber": "240",
+        "latitude": 48.1142912,
+        "longitude": 11.613666
+    },
+    {
+        "id": "13065126004",
+        "name": "Käfer Café & Bistro",
+        "category": "Café",
+        "street": "Dienerstraße",
+        "houseNumber": "21",
+        "latitude": 48.1376138,
+        "longitude": 11.5768178
+    },
+    {
+        "id": "13191098101",
+        "name": "Café Reichshof",
+        "category": "Café",
+        "street": "Wörthstraße",
+        "houseNumber": "17",
+        "latitude": 48.1310883,
+        "longitude": 11.5997506
+    },
+    {
+        "id": "13208573471",
+        "name": "Das Vierundsiebzig",
+        "category": "Café",
+        "street": "Stiftsbogen",
+        "houseNumber": "74",
+        "latitude": 48.1223284,
+        "longitude": 11.4898951
+    },
+    {
+        "id": "13242823001",
+        "name": "LAP COFFEE",
+        "category": "Café",
+        "street": "Barer Straße",
+        "houseNumber": "54",
+        "latitude": 48.1498913,
+        "longitude": 11.5726977
+    },
+    {
+        "id": "13242823101",
+        "name": "plex",
+        "category": "Café",
+        "street": "Fraunhoferstraße",
+        "houseNumber": "21",
+        "latitude": 48.1297746,
+        "longitude": 11.5738601
+    },
+    {
+        "id": "13273863501",
+        "name": "not Guilty pleasure",
+        "category": "Café",
+        "street": "Häberlstraße",
+        "houseNumber": "11",
+        "latitude": 48.1279876,
+        "longitude": 11.558578
+    },
+    {
+        "id": "13288639501",
+        "name": "TERRAMOON",
+        "category": "Café",
+        "street": "Schillerstraße",
+        "houseNumber": "30",
+        "latitude": 48.1364504,
+        "longitude": 11.5607801
+    },
+    {
+        "id": "13302250653",
+        "name": "StuLounge Leopoldstraße",
+        "category": "Café",
+        "street": "Leopoldstraße",
+        "houseNumber": "13a",
+        "latitude": 48.1563955,
+        "longitude": 11.5818751
+    },
+    {
+        "id": "13319740901",
+        "name": "Cafe Vintage",
+        "category": "Café",
+        "street": "Frauenstraße",
+        "houseNumber": "15",
+        "latitude": 48.1345661,
+        "longitude": 11.5786279
+    }
+]
